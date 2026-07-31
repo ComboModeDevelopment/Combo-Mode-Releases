@@ -1,0 +1,174 @@
+rob changes:
+
+dash attack:
+sweetspot damage:6<8
+sourspot damage:5<7
+knockback growth:50<70
+
+d smash:
+final hit bkb:90<60
+
+upair:
+multihit angle:96<365
+
+dair:
+removed initial momentum stall
+
+nair:
+startup sped up 1.5x
+
+upsmash:
+sweetspot damage:14<17
+
+d tilt:
+iasa:15<18
+angle:361<55
+damage:5<6
+bkb:2<25
+
+side special:
+sped up 1.5x
+angle:361<80
+grounded side b can now be canceled into attacks
+(this move still sucks lol)
+
+down b:
+gyro charges faster (90<70)
+
+neutral b:
+sped up 1.5x
+_________________________________________________________________________________________
+rev 7:
+
+buffed air mobility
+
+up tilt:
+first hit bkb:0<35
+first hit damage:3<5
+2nd hit hitbox sizes all +1.5
+
+d smash:
+multihit angle:170<365
+
+bair:
+damage:11<17
+bkb:30<0
+
+neutral b:
+sped up charge times
+can now angle it more
+super charged damage:9<12
+kbg:70<80
+_________________________________________________________________________________________
+rev 8 changes:
+
+dair:
+sped up 1.2x
+reworked momentum shift slightly
+
+fair:
+sweetspot kbg:90<110
+
+f smash:
+startup sped up 1.2
+damage on all hitboxes:+3
+kbg:95<100
+
+dash attack:
+kbg:70<55
+_______________________________________________________________________________________
+rev 9:
+
+buffed air mobility and ground to air momentum
+run speed:1.5<1.65
+dash speed:1.3<1.5
+
+up air:
+added skb on multihits:10
+final hit angle:60<80
+
+dair:
+sped up:1.2x<1.35x
+hitbox id3 angle:361<270
+hitbox id3 reaches down further
+fixed active frames after speedup
+
+fair:
+sped up 1.2x
+angle:361<55
+
+d tilt:
+angle:55<68
+damage:6<8
+
+dash attack:
+active frames:2<10
+first active frame:7<5
+damage:7/8<10
+
+neutral b:
+charges faster (basically instant charge for lvl 1 laser)
+projectiles moves faster+lasts longer
+can now bounce off of all surfaces
+full charge damage never properly saved, is now actually 13, kbg 90
+endlag now slowed .9x
+
+down b:
+charges faster
+made stronger
+
+up smash:
+sweetspot damage:17<20
+
+f smash:
+endlag sped up 1.3x
+hitbox duration:2<4
+_________________________________________________________________________________________
+rev 10:
+
+dash:
+1.5<1.4
+
+weight:
+106<112
+
+d tilt:
+active frames:1<3
+
+f tilt:
+endlag sped up 1.35x
+
+up tilt:
+first hit reworked to link to 2nd hit better
+
+d smash:
+reworked angles and buffed hitbox sizes
+should suck opponents in better
+final hit angle:70<55
+startup slowed .8x
+
+up air:
+now has p+ up air
+
+side b:
+reworked to be functional and useable 
+
+up smash:
+now a 2 hit multihit
+
+bair:
+improved hitbox range
+
+dair:
+damage:11<17
+gives less vertical boost
+sped up startup 1.5x
+________________________________________________________________________________________
+rev 11:
+
+neutral b:
+max laser kbg:90<65
+can angle further + faster
+
+bair:
+active frames:15<7

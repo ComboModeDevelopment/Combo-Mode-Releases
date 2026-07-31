@@ -1,0 +1,191 @@
+wario changes:
+________________________________________________________________________________
+rev 5 changes:
+
+jab:
+added iasa to 2nd hit:32
+
+dash attack:
+added iasa:37
+sweetspot damage:7<10
+sourspot damage:5<7
+late hit angle:120<100
+
+up tilt:
+sped up startup 1.3x
+added iasa:30
+damage:10<13
+sourspot damage:6<9
+
+d tilt:
+iasa:34<26
+damage:8<11
+
+f smash:
+removed super armor
+added momentum to give it more range
+iasa:41<51
+
+d smash:
+sped up hitboxes 1.4x, endlag 1.9x
+
+fair:
+added iasa:28
+
+dair:
+final hit angle:361<270
+kbg:180<90
+
+bair:
+damage:10<15
+
+d throw:
+end lag sped up 1.6x
+
+neutral b:
+minimum hold time:20<1
+
+up b:
+vertical height buffed
+________________________________________________________________________________________
+rev 6 changes:
+
+f smash:
+fixed bug where if hitting a shield, wario would slide
+________________________________________________________________________________________
+rev 7 changes:
+
+run speed:1.35<1.55
+
+up b can now snap edge earlier
+
+has PM bair, d smash, and dair animation and unique properties
+
+jab:
+fixed a bug where his jab 2 had no end lag, now is actually iasa frame 32
+jab 1 angle:60<270
+jab 1 given skb:10
+bkb:15<25
+
+fair:
+angle:361<55
+
+down b:
+charges faster
+full charge damage:40<30
+kbg:30<55
+
+f tilt:
+sped up 1.2x
+___________________________________________________________________________________
+rev 8 changes:
+
+f tilt:
+startup sped up 1.35x
+
+fair:
+sweetspot damage:7<10
+sweetspot kbg:100<120
+late hit bkb:15<30
+
+up tilt:
+accidentally did not correctly speed up move before lol, startup sped up 1.3x
+
+upsmash:
+addeed skb to multihits:10
+endlag sped up 1.3x
+
+d throw:
+angle:130<110
+
+dair:
+can now double jump out of dair after 26 frames
+
+neutral b:
+after grabbing someone with chomp, you can cancel it into attacks
+_________________________________________________________________________________________
+rev 9:
+
+up smash:
+fixed multihit
+____________________________________________________________________________________________
+rev 9.5:
+
+jab:
+jab 2 iasa:32<26
+
+dash attack:
+iasa:37<30
+angle:70<80
+late hit angle:100<80
+
+f tilt:
+hitbox duration:4<7
+
+up tilt:
+kbg:74<56
+first active frame:12<11
+reworked hitboxes to properly be attached to wario's hands, allows the move to hit lower and have more range
+
+d tilt:
+angle:75<90
+iasa:26<22
+bkb:50<80
+kbg:60<50
+
+nair:
+initial hit damage:9<11
+late hit damage:4<8
+angle:40/361<55
+
+fair:
+kbg:120<80
+
+bair:
+bkb:20<25
+kbg:100<108
+
+up air:
+angle:75<90
+damage:17<15
+kbg:80<60
+added iasa:27
+
+grab:
+hitbox size:4.5/3.5<6/5
+
+neutral b:
+sped up startup 2x
+increased grab hitbox size
+added hitbox that allows the move to grab opponents off missed tech
+
+down b:
+added iasa to no charge waft:25
+full charge waft hitbox size:11<18
+__________________________________________________________________________________________
+rev 10:
+
+dash:
+1.3<1.38
+
+weight:
+107<104
+
+fair:
+late hit damage:5<7
+
+dash attack:
+end lag sped up 1.2x
+
+d smash:
+reworked hitboxes to always spike vs grounded opponents
+sweetspot damage:14<18
+angle:275<270
+endlag sped up 1.2x
+bkb:50<100
+
+bair:
+damage:17<18
+
+f smash:
+more range

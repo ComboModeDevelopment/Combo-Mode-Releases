@@ -1,0 +1,79 @@
+shadow change log:
+________________________________________________________________________________________
+rev 9 changes:
+
+fair:
+kbg:115<90
+damage:16<15
+_______________________________________________________________________________________
+rev 9.5:
+
+run speed:3.5<3.2
+dash speed:1.7<1.5
+
+dair:
+late hit angle:288<75
+initial hitbox duration:7<3
+late hit bkb:20<60
+
+up air:
+no longer a multihit
+reworked knockback and damage to compensate
+angle:69<72
+
+bair:
+no longer a multihit
+kbg:115<100
+bkb:15<25
+
+nair:
+angle:361<55
+sped up 1.2x
+
+d tilt:
+endlag sped up 1.35x
+kbg:80<65
+
+fair:
+kbg:90<95
+___________________________________________________________________________________________
+rev 10:
+
+dash:
+1.5<1.6
+
+weight:
+80<90
+
+up tilt + up air:
+new animation and properties
+
+fair:
+damage:15<16
+bkb:15<25
+kbg:95<100
+
+f smash:
+damage:17<18
+bkb:37<50
+kbg:90<80
+
+up smash:
+now a single hit with a sourspot late hit
+
+side b:
+damage:4<10
+sped up
+aerial version can now landing cancel
+
+d throw:
+sped up
+
+neutral b:
+reworked so now it's just 1 strong kill move after landing
+__________________________________________________________________________________________
+rev 11:
+
+up air:
+angle:90<55
+damage:13<11

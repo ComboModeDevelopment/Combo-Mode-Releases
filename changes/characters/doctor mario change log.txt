@@ -1,0 +1,184 @@
+doctor mario changes:
+______________________________________________________________
+rev 6 changes:
+
+Doc is now a part of combo mode, and mostly what you expect.
+he has a blend of melee doctor mario and ult doctor mario.
+
+he has his ult stomp, killing up b, and the tornado back for down b.
+
+he is slower than mario, both in the air and on the ground, but has much greater kill power and has high damage.
+
+not many quirky gimmicks to him, he's about what you would expect.
+the only major quirk worth mention is that he has the melee mario wall jump out of up b.
+____________________________________________________________________________
+rev 7 changes:
+
+buffed air mobility
+increased traction:.06<.07
+
+jab:
+jab 1 hitbox id 2 angle:361<80
+endlag slowed .8x
+
+up tilt:
+angle:70<76
+damage:9<12
+
+dash attack:
+sweetspot bkb:70<80
+sweetspot kbg:50<35
+sweetspot damage:11<13
+sourspot bkb:45<65
+sourspot damage:9<10
+
+up b:
+can no longer hit the sourspot after the sweetspot
+
+side b:
+can cancel into attacks
+
+up air:
+bkb:9<25
+kbg:100<85
+
+dair:
+startup sped up:.9x<1.2x
+bkb:60<75
+kbg:50<80
+
+d tilt:
+damage:10<12
+______________________________________________________________________________________
+rev 8 changes:
+
+run speed:
+1.45<1.59
+
+initial dash:
+1.5<1.7
+
+fair:
+removed slowdown
+no longer has a sourspot
+
+d tilt:
+range buffed
+
+up air:
+range buffed
+endlag sped up 1.3x
+
+down b:
+gives better lift in air
+
+up b:
+can now perform an up b cancel but holding shield as you perform it on the ground
+
+nair:
+initial hit active frames:1<3
+
+dash attack:
+sped up after 1st hit 1.3x
+
+neutral b:
+sped up
+____________________________________________________________________________________
+rev 9:
+
+fair:
+bkb:50<45
+damage:19<18
+kbg:100<95
+
+nair:
+late hit kbg:110<100
+initial hit angle:361<55
+
+down b:
+endlag sped up:1.5x<1.2x
+_______________________________________________________________________________________
+rev 10:
+
+dash:
+1.7<1.4
+
+run:
+1.59<1.55
+
+weight:
+102<98
+
+up tilt:
+reworked animation to give it more range
+
+nair:
+early hit active frames:2<3
+
+down b:
+kbg:125<100
+slowed endlag
+
+up air:
+faf:4<3
+active frames:+3
+
+f smash:
+improved hitbox sizes
+
+up smash:
+improved hitbox coverage
+
+d tilt:
+adjusted animation for more range
+
+up b:
+now holding b cancels move on ground
+
+jab:
+jab 3 angle:361<55
+jab 3 bkb:30<60
+jab 3 kbg:95<70
+jab 3 sped up endlag
+removed slow down between jabs
+jab 1/2 angle:361<365
+
+neutral b:
+removed slowdown
+_______________________________________________________________________________________
+rev 11:
+
+dash speed:
+1.4<1.6
+
+run speed:
+1.55<1.65
+
+up b:
+now spikes vs grounded opponents for combos
+
+d tilt:
+angle:110<100
+
+fair:
+angle:57<40
+
+up air:
+endlag sped up:1.35<1.45
+
+nair:
+weak hit now trips and has set knockback
+angle:55<0
+
+jab:
+can cancel jab2 into attacks
+
+dair:
+adjusted animation for more range
+
+up throw:
+given ult animations
+
+back throw:
+slowed .7x
+damage:15<17

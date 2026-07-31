@@ -1,0 +1,185 @@
+Ven changes:
+__________________________________________________________________________________________
+rev 5 changes:
+
+Ven is now a member of combo mode's roster!
+Ven differs from Roy in many ways, some subtle and some not so subtle.
+you'll find Ven's most obvious difference is that instead of fire, he has ice.
+_________________________________________________________________________________________
+rev 6 changes:
+
+fixed fire effects on taunt and counter.
+________________________________________________________________________________________
+rev 7 changes:
+
+initial dash speed:1.4<1.7
+
+buffed air mobility
+
+fixed fire effect on entry
+
+side b:
+can now cancel side b up 3 into attacks more consistently
+adjusted speeds so the timing for the attacks is more consistent
+side 3 sweetspot damage:9<11
+side 3 tipper damage:7<9
+
+up b:
+late hit damage:10<5
+late hit no longer freezes
+removed the ability for freezer to hit more than once
+
+down b:
+can now cancel the counter with attacks on the ground
+
+f smash:
+first active frame:9<7
+
+up tilt:
+first active frame:6<5
+
+d tilt:
+hilt damage made a consistent 12
+tipper damage:6<8
+
+d smash:
+sweetspot kbg:80<85
+sweetspot bkb:30<35
+tipper angle:361<30
+
+jab:
+sweetspot damage:6<8
+tipper damage:4<6
+
+fair:
+endlag sped up:1.1
+
+bair:
+damage:9<13
+kbg:100<110
+_____________________________________________________________________________
+rev 8 changes:
+
+fair:
+fixed active frames
+______________________________________________________________________________
+rev 9 changes:
+
+run speed:1.6<1.8
+buffed ground to air momentum
+
+Taking the L on this one, removed some ice hit effects. they ruin his vertical kill power.
+removed on:
+up smash
+neutral b (still freezes on full charge)
+up b
+
+neutral b:
+full charge neutral b now HEALS 10% instead of dealing it to you :D
+iasa:39<30
+kbg:160<190
+
+up b:
+bkb:100<150
+kbg:65<40
+restored ability for both hits to connect so you have to properly land sweetspot
+
+jab:
+angle:361<55
+_________________________________________________________________________________________
+rev 9.5:
+
+up smash:
+iasa:38<30
+
+fair + up air:
+damage:8<9
+sourspot damage:6<7
+
+dair:
+sourspot damage:7<8
+
+nair:
+2nd hit damage:7<8
+2nd hit angle:361<55
+____________________________________________________________________________________________
+rev 10:
+
+dash:
+1.7<1.9
+
+run:
+1.8<2
+
+weight:
+85<94
+
+f smash:
+given ult f smash animation
+adjusted hitboxes and movement during the move, now actually has more range than Roy's
+damage:20<19
+bkb:80<75
+
+fair:
+given ult animation
+faster than before and should have about the same range
+
+up tilt:
+new ult animation
+less range but scoops off the ground better, faster, and angle is now 90
+
+f tilt:
+now uses side b s4 animation
+
+dair:
+now has ult dair animation
+hitbox id1 angle:361<270
+
+up smash:
+kbg:65<90
+
+up throw:
+damage:5<9
+bkb:60<40
+
+neutral b:
+damage:7<14
+kbg:190<120
+bkb:15<20
+
+d tilt:
+bkb:70<90
+
+bair:
+new animation
+
+nair:
+new animation and properties
+new launch angle:55<70
+__________________________________________________________________________________________
+rev 11:
+
+cleaned up a bunch of animations!
+now more icey!
+new voice!
+
+fair:
+startup sped up:1.4<1.5x
+
+up air:
+startup slowed .5x
+damage:9<12
+bkb:45<60
+
+up throw:
+added iasa:32
+
+jab:
+new animation
+angle:55<75
+
+f tilt:
+new animation with angled variants
+
+nair:
+redid angles to make multihit link better

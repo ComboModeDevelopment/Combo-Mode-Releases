@@ -1,0 +1,199 @@
+ivysaur change log:
+
+horizontal airspeed has been increased
+
+grab:
+active frames:13-14<9-12
+fixed range
+
+dair:
+sweetspot damage:8<12
+sweetspot hitbox size increased
+
+bair:
+1st hit damage:2<3
+2nd hit damage:3<5
+2nd hit kbg:160<130
+2nd hit bkb:10<5
+iasa:45<39
+
+d smash:
+damage:8<12
+kbg:80<90
+
+Up special:
+sweetspot priority changed from 4<0
+range to grab edge increased
+reaches the edge much faster
+ivysaur no longer goes into special fall after use
+added more endlag
+
+side special:
+razor leaves last longer (50<60)
+removed rng angles
+____________________________________________________________________________________
+rev 7 changes:
+
+fixed end of up b animation
+
+f tilt:
+added skb:10
+hitbox id3 damage:1<2
+angle:20<365
+iasa:42<37
+
+d tilt:
+1st hit angle:30<365
+2nd hit sped up 1.3x
+endlag sped up 1.2x
+
+up smash:
+sped up 1.3x
+
+fair:
+endlag sped up 1.3x
+first active frame:14<13
+
+bair:
+startup slowed .5x
+between hits sped up 1.5x
+bkb:7<25
+
+dair:
+can now move horizontally during move
+
+side special:
+sped up 1.2x
+______________________________________________________________________________________
+rev 8 changes:
+
+bair:
+startup slowed more
+
+up b:
+removed slowdown on endlag in air
+
+neutral b:
+can cancel into attacks
+
+f tilt:
+can cancel multihit into specials
+
+dash attack:
+iasa:44<40
+endlag sped up 1.3x
+
+f smash:
+damage:16<18
+
+d smash:
+damage:12<14
+startup sped up 1.4x
+
+nair:
+final hit angle:361<60
+
+fair:
+angles all made 75
+
+d throw:
+kbg:50<20
+bkb:83<95
+______________________________________________________________________________________________
+rev 9:
+
+run speed:1.5<1.6
+dash speed:1.4<1.56
+
+up tilt:
+damage:7<10
+
+d tilt:
+2nd hit reworked angles:
+id0/1:80
+id2:90
+id3:100
+first hit damage:2<4
+2nd hit damage:5<6
+
+active frames on both hits:2<3
+
+d smash:
+fixed active frames
+
+fair:
+startup sped up 1.2x
+endlag sped up:1.3<1.45
+segment during hitboxes slowed .6x, improves hitbox coverage+duration
+hitbox id3 size:2.5<3.6
+
+f smash:
+startup sped up 1.2x
+
+up smash:
+startup sped up 1.2x
+damage:17<20
+bkb:80<65
+kbg:90<80
+
+jab:
+jab 2 now leads into f tilt
+jab 1 angle:30<90
+jab 2 added skb:10
+
+d throw:
+angle:100
+
+nair:
+multihit angles all made 365 except for id2
+___________________________________________________________________________________________
+rev 10:
+
+ivy is now built off P+ ivy
+
+dash:
+1.56<1.6
+
+up b:
+sweetspot damage:13<18
+can now double jump earlier out of up b to help recovery
+
+d tilt:
+endlag sped up 1.4x
+buffed hitboxes to connect better
+
+nair:
+adjusted multihit kb to link better
+
+bair:
+added skb to first hit
+sped up between hits
+
+up air:
+damage:16<13
+bkb:32<40
+kbg:97<100
+
+dair:
+damage:12<16
+
+d smash:
+added sweetspots on tips of vines
+
+side b:
+sped up 1.2x
+can now landing cancel
+_________________________________________________________________________________________
+rev 11:
+
+up b:
+no longer halts aerial drift when used
+
+neutral b:
+can jump cancel the charge
+no longer puts ivy into special fall in air
+
+side b:
+lasts longer
+new angle
+hits more frequently

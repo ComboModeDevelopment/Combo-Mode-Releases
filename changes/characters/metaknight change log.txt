@@ -1,0 +1,245 @@
+metaknight changes:
+_________________________________________________________________________________
+Rev 2:
+
+number of jumps reduced (6<4)
+jump height increased
+
+d tilt:
+no longer halts momentum 
+iasa:15<22
+angle:361<57
+bkb:15<30
+damage:4/5/6/7<6
+
+up tilt:
+initial hit kbg:120<90
+later hit kbg:145<90
+bkb:35<55
+damage:6/7/8<7
+
+fsmash:
+endlag slowed .6x
+
+dsmash:
+endlag slowed .6x
+
+up smash:
+2nd hit angles all made 365
+final hit kbg:145<100
+bkb:62<55
+final hit damage:4<6
+
+up air:
+iasa:14<25
+damage:6<8
+kbg:125<100
+
+neutral b:
+hitbox sizes:5<3
+endlag slowed .7x
+max horizontal speed:2<1.3
+_________________________________________________________________________________
+rev 4:
+
+Multijump height fixed.
+short hop height increased. (1.68 < 1.95)
+increased ground to air momentum (.8 < 1.5)
+horizontal momtentum buffed.
+
+f smash:
+startup sped up 1.3x
+
+d tilt:
+slowed .8x (iasa reduced to compensate)
+angle:57<70
+bkb:30<45
+
+nair:
+sweetspot duration:2 < 5
+
+bair:
+sped up 1.3x
+
+up air:
+kbg:100<70
+
+dair:
+kbg:105<60
+
+d throw:
+sped up 1.3x
+angle:50<75
+
+b throw:
+angle:45<60
+
+side b:
+turning speed:3 < 1.5
+
+down b:
+startup sped up 1.3x
+_________________________________________________________________________________________
+rev 7 changes:
+
+d tilt:
+reworked slowdown on d tilt, startup slowed .3x and rest of move left 1x
+
+up tilt:
+endlag sped up 1.3x
+
+f tilt:
+1st and 2nd hit all angles made 365
+final hit angle all made 80
+sped up englag 1.4x
+
+up smash:
+first hit damage:3<4
+firt hit angle:90/115<270
+first hit bkb all made 10, skb all made 10
+2nd hit damage:2<3
+final hit kbg:100<115
+endlag sped up 1.3x
+
+neutral special:
+multihit angle:all made 361
+_____________________________________________________________________________________________
+rev 8 changes:
+
+up air:
+iasa:25<16
+
+bair:
+final hit damage:4<6
+bkb:30<40
+kbg:175<180
+
+jab:
+can now cancel into specials/grabs/attacks
+
+f smash:
+kbg:99<110
+
+d smash:
+kbg:93<110
+
+nair:
+kbg:100<115
+
+dair:
+kbg:60<40
+
+up b:
+damage:9<15
+angle:80/70<40
+___________________________________________________________________________________________
+rev 9:
+
+slightly increased shorthop
+
+up smash:
+too many random minor changes to hitboxes and angles. tldr i fixed the move.
+__________________________________________________________________________________________
+rev 9.5:
+
+"new" jab using his f tilt 3 animation
+
+neutral b:
+reworked the move, is now a single hit kill move with a weaker late hit
+buffed some mobility
+sped up startup 2x
+can now grab ledge out of spin
+
+d tilt:
+startup slowdown:.4<.6
+damage:6<8
+moved hitboxes to properly match move
+
+up tilt:
+damage:7<9
+
+dash attack:
+damage:8/7/6<10
+id0 angle:60<70
+
+up air:
+angle:78/60<85
+___________________________________________________________________________________________
+rev 10:
+
+run:
+1.847<2.1
+
+weight:
+79<86
+
+neutral b:
+damage:12<15
+kbg:110<107
+bkb:35<30
+buffed vertical gain
+
+f tilt:
+removed 3rd hit
+reworked 2nd hit
+
+d tilt:
+sped up startup
+
+dair:
+active frames:2<4
+
+nair:
+damage:12<14
+
+up air:
+hitboxes buffed on sides
+
+fair:
+increased hitbox active frames + sped up 1.2x
+
+f smash:
+startup sped up:1.3<2.3
+damage:14<15
+endlag slowed:.6<.4
+
+dash attack:
+endlag sped up 1.3x
+___________________________________________________________________________________________
+rev 11:
+
+d tilt:
+adjusted animation for more range + buffed hitbox sizes
+tipper angle:70<80
+
+up tilt:
+startup sped up 2x
+
+fair:
+redid all hitboxes on this move to make it link better
+
+bair:
+redid hitboxes on this move to make it link better
+final hit damage:4<10
+hitlag:1<2
+final hit kbg:175<155
+
+jab:
+removed slowdown on move
+angle:75<55
+
+dash attack:
+given move range
+buffed hitboxes to properly cover him
+angle:80<65
+
+f tilt:
+has reworked hitboxes on first 2 hits to link better
+has new final 3rd hit that comes out automatically after 2nd hit connects
+
+up air:
+active frames:2<4
+
+dair:
+damage all made 7%
+endlag sped up 1.25x

@@ -1,0 +1,165 @@
+Roy changes:
+_________________________________________________________________________________
+rev 4 changes:
+
+Roy is built off a combination of an old school "roy in brawl" mod and a "pm roy in brawl" mod. this was necessary for his files to function properly.
+
+he has been adjusted to feel more natural in brawl's engine, and been slightly rebalanced and reworked from PM.
+
+across the board he generally has less damage on his moves and a bit more endlag on some moves compared to PM/P+.
+___________________________________________________________________________________
+rev 5 changes:
+
+d tilt:
+sweetspot angle: 80 < 71
+hilt damage made consistent: 10/12 < 10
+
+fair:
+sweetspot angle: 50 < 47
+
+bair:
+sweetspot damage: 16 < 15
+kbg: 100 < 97
+
+up air:
+angle: 80 < 70
+damage: 10 < 9
+kbg: 40 < 60
+
+___________________________________________________________________________________
+rev 7 changes:
+
+d tilt:
+angle:71<75
+
+bair:
+kbg:97<105
+
+neutral b:
+damage uncharged:10<12
+________________________________________________________________________________________________
+rev 9.5:
+
+run speed:1.67<1.75
+dash speed:1.4<1.6
+improved ground to air momentum + air mobility
+
+up tilt:
+iasa:37<33
+bkb:35<55
+kbg:75<70
+
+d tilt:
+damage:10<11
+tipper damage:6<8
+angle:75<80
+bkb:75<85
+kbg:40<20
+
+nair:
+2nd hit angle:361<55
+2nd hit kbg:80<70
+1st hit added skb:10
+
+bair:
+damage:15<16
+
+up air:
+damage:9<11
+sourspot damage:7<8
+angle:70<75
+kbg:60<50
+
+dair:
+sourspot angle:37<90
+___________________________________________________________________________________________
+rev 10:
+
+now uses ult/smash 4 model
+
+run:
+1.75<1.85
+
+weight:
+85<98
+
+up air:
+kbg:50<40
+lasts 1 frame longer
+angle:75<80
+endlag sped up 1.25x
+
+up tilt:
+kbg:70<55
+angle:110<95
+sped up endlag 1.2x
+buffed hitboxes
+
+fair:
+now has ult animation
+angle:47<51
+tipper angle:41<57
+starts 1 frame earlier
+
+nair:
+sped up 1.3x
+
+f tilt:
+endlag sped up 1.4x
+new animation
+damage:14<16
+buffed hitboxes
+
+neutral b:
+damage:12<16
+
+d throw:
+endlag sped up 1.4x
+kbg:110<95
+
+dash attack:
+sped up 1.3x
+
+bair:
+adjusted hitbox sizes to make sweetspot more consistent
+
+d tilt:
+bkb:80<90
+kbg:20<30
+
+jab:
+now has ult jab
+angle:70
+
+f throw:
+sped up endlag 1.2x
+
+d smash:
+angle:75<35
+
+dair:
+endlag sped up 1.4x
+
+up smash:
+now 2 hits, stronger kill move, new animation
+_______________________________________________________________________________________
+rev 11:
+
+up tilt:
+damage:12<10
+
+nair:
+2nd hit damage:10<8
+
+fair:
+damage:10<9
+
+up air:
+damage:11<10
+angle:80<75
+
+d tilt:
+damage:11<10
+
+jab:
+damage:8<7

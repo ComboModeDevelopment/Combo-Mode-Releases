@@ -1,0 +1,262 @@
+falcon changes:
+
+jab:
+rapid jab removed
+jab 3 damage:6<7
+angle:70<55
+bkb:10<30
+kbg:50<80
+
+dtilt:
+hitbox id 1 angle:40<80
+
+f smash:
+kbg:85<105
+
+dair:
+sourspot angle:361<270
+sweetspot bkb set to match sourspot bkb:10<40
+
+nair:
+first hit angles:82/78/74<65
+first hit skb:55<65
+first hit sdi multiplier:1<.4
+2nd hit angle:361<50
+____________________________________________________________
+rev 2 changes:
+
+nair:
+first hit angles:65<80
+2nd hit sped up 1.2x
+_________________________________________________________________
+rev 3 changes:
+
+fixed a bug where falcon could cancel his dodges into attacks
+
+side b:
+damage:7<10
+bkb:100<80
+kbg:52<75
+
+d throw:
+sped up 1.2x
+
+fair:
+sweetspot duration:1<2
+initial hitbox id 1 now matches id 0
+_________________________________________________________________________
+rev 5 changes:
+
+f smash:
+has his ult animation and some improved range
+
+up tilt:
+brand new elbow up tilt, based off his smash 64 up smash
+angle:80
+damage:10
+bkb:50
+kbg:80
+
+up throw:
+end lag sped up 1.4x
+
+down b:
+endlag sped up 1.5x
+_______________________________________________________________________
+rev 6 changes:
+
+f smash:
+fixed bug where if hitting a shield, falcon would slide
+______________________________________________________________________________
+rev 7 changes:
+
+d tilt:
+endlag sped up 1.25x
+
+f smash:
+first active frame:7<6
+_________________________________________________________________________________________
+rev 8 changes:
+
+up throw:
+bkb:70<50
+kbg:105<90
+
+d throw:
+angle:65<69
+
+nair:
+first hit active frames:2<6
+2nd hit active frames:2<9
+first hit damage:4<5
+
+fair:
+late hit damage:3<6
+iasa:40<34
+sweetspot duration:2<3
+
+dair:
+damage:14<16
+
+dash attack:
+damage:8<10
+late hit damage:6<8
+
+d smash:
+first hit kbg:85<100
+
+d tilt:
+damage:10<12
+can now slide with his d tilt out of run
+
+side b:
+sped up 1.2x
+
+up air:
+endlag sped up 1.2x
+
+can now walljump out of up b and side b
+__________________________________________________________________________________________________
+rev 9.5:
+
+now has a super secret impracticle attack that is basically guaranteed to kill if it lands
+
+run speed:2.18<2.4
+dash speed:2.05<2.1
+
+slight ground to air buff
+
+up smash:
+startup sped up 1.2x
+between hits sped up 1.4
+
+d smash:
+startup sped up 1.3x
+rest slowed .9x
+
+fair:
+late hit damage:6<9
+late hit angle:361<50
+late hit kbg:80<60
+made sweetspot hitboxes larger than sourspot
+
+up air:
+made the tippman spike actually work
+initial hit angle:361<50
+initial hit bkb:10<35
+initial hit kbg:100<70
+
+side b:
+landing lag:20/40<15/10
+
+down b:
+endlag and landing lag sped up
+grounded sweetspot angle:45<361
+grounded sweetspot damage:13<17
+
+side b:
+damage:10<12
+kbg:75<65
+sped up 1.3x
+
+dair:
+bkb:40<55
+kbg:100<90
+
+up throw:
+bkb:50<70
+kbg:90<70
+
+nair:
+2nd hit angle:50<55
+
+jab:
+1&2 angles:80<365
+
+up tilt:
+angle:80<95
+fixed hitboxes to better match move
+endlag sped up:1.3<1.36
+_________________________________________________________________________________________
+rev 10:
+
+now falls much faster
+
+dash:
+2.1<2.3
+
+run:
+2.4<2.6
+
+weight:
+104<108
+
+nair:
+between hits sped up:1.2x<2.2x
+first hit now has unique hitboxes vs ground or air opponents
+new vs air opponent angle:365
+
+d tilt:
+no longer carries momentum
+whole move sped up 1.35x
+
+dash attack:
+endlag sped up 1.36x
+
+dair:
+startup sped up 1.3x
+
+side b:
+startup sped up 1.4x on ground, 1.5x in air
+holding A when the move connects will now have falcon perform his dash grab instead of the uppercut
+if the move connects in the air, falcon gets his double jump back and he can jump out of it
+
+up b:
+kbg:82<109
+throw now has iasa:24
+mobility buffed + b reverse fixed
+can no longer wall jump out of move
+
+f smash:
+startup sped up 1.4x
+redid hitboxes so the move always sends in the proper direction
+
+up air:
+first active frame:6<5
+
+f tilt:
+sped up endlag 1.4x
+
+d smash:
+startup sped up more
+damage:18<17
+
+jab:
+3rd hit bkb:30<50
+3rd hit kbg:80<90
+
+down b:
+aerial initial hit angle:361<0
+
+neutral b:
+now much faster, but also much weaker
+_______________________________________________________________________________________
+rev 11:
+
+jab:
+reworked hitboxes on jab1 to prevent infinites
+jab 1/2 damage:3<2
+jab 3 damage:7<6
+
+dair:
+added another hitbox higher on falcon's body
+hitlag:1<1.5
+
+fair:
+damage:19<18
+
+up air:
+damage:12/11/10<10
+
+nair:
+2nd hit damage:6<5

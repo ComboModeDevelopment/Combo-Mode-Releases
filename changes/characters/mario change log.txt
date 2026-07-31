@@ -1,0 +1,214 @@
+mario changes:
+
+dash attack:
+made the hitboxes on both sourspots larger (sourspot late hit dash attack was literally unhittable before)
+sweetspot angle:110<100
+late hit sweetspot angle:120<110
+
+d tilt:
+iasa:35<26
+
+d smash:
+kbg:73<105
+
+upsmash:
+damage:14<16
+kbg:90<100
+
+fair:
+all angles are now 270, keeps sourpsots damage and knockback
+iasa:60<46
+
+nair:
+initial hit damage:10<12
+late hit damage:5<7
+kbg:100<110
+
+up air:
+angle:45<55
+
+dair:
+multihit hitbox id 1 size:7<5
+multihit hitbox id 1 angle:94<270
+________________________________________________________________________________
+rev 2 changes:
+
+up air:
+angle:55<50
+_______________________________________________________________________________
+rev 3 changes:
+
+dair:
+now has P+ dair animation and new dair properties
+angle vs grounded opponents:270
+angle vs aerial opponents:80
+final hit angle:80
+
+fair:
+sweetspot damage:13<16
+bkb:20<50
+kbg:80<60
+
+d tilt:
+damage:5/7<8
+____________________________________________________________________________________
+rev 4 changes:
+
+d tilt:
+bkb:20<35
+
+bair:
+initial hit kbg:95<115
+_____________________________________________________________________________________
+rev 5 changes:
+
+dair:
+fixed a bug where the final hit lingered the entire duration of the endlag.
+slowed down .8x
+_______________________________________________________________________________________
+rev 7 changes:
+
+nair:
+sweetspot damage:12<14
+sweetspot bkb:20<35
+
+bair:
+sweetspot damage:12<15
+iasa:34<29
+
+dair:
+removed slow down on startup, only on endlag
+
+fair:
+angle:270<295
+
+up air:
+iasa:30<24
+
+up tilt:
+damage:7<9
+
+up smash:
+added iasa:29
+
+f smash:
+all angles made the same
+swapped hitbox id 0/2
+sweetspot kbg:90<100
+
+side b:
+buffed as recovery tool
+
+up b:
+can now cancel the grounded version with movement
+initial hit skb:130<90
+added bkb:20
+damage:5<7
+________________________________________________________________________________________
+rev 8 changes:
+
+up b:
+can now wall jump out of up b
+___________________________________________________________________________
+rev 9:
+
+nair:
+damage:14<12
+kbg:110<95
+________________________________________________________________________________________
+rev 9.5:
+
+nair:
+damage:12<13
+kbg:95<101
+
+d smash:
+damage:15<16
+bkb:40<42
+
+f smash:
+sweespot bkb:25<30
+sweetspot kbg:100<105
+
+up smash:
+bkb:32<45
+startup sped up 1.4x
+
+bair:
+bkb:10<17
+kbg:115<117
+
+d tilt:
+iasa:26<22
+damage:8<9
+
+up tilt:
+damage:9<10
+
+dash attack:
+damage:9/7<11<9
+
+fair:
+first active frame:16<15
+first 2 frames of startup are now a horizontal kill move as opposed to a spike
+late hit angle:295<270
+
+dair:
+angle vs grounded opponents:280<365
+
+down b:
+charges much faster and pushed mario much further
+added iasa in the air:21
+can now use this move to recover
+______________________________________________________________________________________
+rev 10:
+
+new dash attack, up air, fair, d smash animations
+
+dash:
+1.5<1.6
+
+run:
+1.6<1.73
+
+f smash:
+startup sped up 2x
+
+d smash:
+back hit now matches front hit
+kbg:105<90
+
+fair:
+initial hit bkb:30<38
+initial hit kbg:100<105
+initial hit damage:15<16
+startup sped up 1.4x
+
+dash attack:
+given more range
+
+neutral b:
+sped up 1.2x
+fireballs last longer
+damage:5<7
+
+up b:
+hitbox segment slowed so it lasts a bit longer
+first hit damage:7<6
+no longer invincibile on startup
+reworked so now holding b during grounded up b makes the move cancel into his heavy landing
+
+side b:
+sped up 1.2x
+
+up tilt:
+kbg:130<90
+bkb:28<35
+
+jab:
+jab 1+2 angles:361<365
+can cancel jab 2 into attacks
+
+up air:
+angle:50<55
+faf:4<3

@@ -1,0 +1,201 @@
+little mac changes:
+____________________________________________________________________________________
+rev 6 changes:
+
+Little mac joins combo mode!
+
+i was excited to try my hand at balancing mac's gimmick of being strong on the ground and weak in the air. I attempted to design mac to be a technical character, needing to utilize cancels to make the most of his kit.
+
+mac's primary gimmick is his dodge cancel - you can cancel his dodges into attacks, making for some very good evasive, fast, burst movement.
+
+as a semi "bug" i'm trying to work out, his jab combo really only consistenly works if you hold "A" rather than tapping it.
+
+he can double jump out of his side b, so be sure when recovering to side b first, then double jump, you'll get to use another side b/up b!
+this also means you can end a combo in side b offstage and live if you still have double jump!
+
+his f tilt has a unique mechanic. the first hit trips, and can be canceled into specials. this is important because counter (down b) can both cancel into attacks. this means you can confirm a lot of moves (including smash attacks) off of first hit side b cancels.
+______________________________________________________________________________________
+rev 7 changes:
+
+weight:
+68<89
+
+made slightly larger
+
+can now instantly cancel drop shield into movement and attacks
+
+forward roll cancel frame:9<7
+
+airdodge:
+endlag sped up 1.4x
+
+down b:
+can't attack cancel until frame 15
+
+neutral b:
+can no longer attack cancel
+
+jab:
+all jab sdi multiplier:1<.4
+jab 3 first active frame:7<5
+jab 1 startup sped up 2x
+jab 1 bkb:25<35
+jab 2 startup sped up 1.5x
+
+up tilt:
+first active frame:7<4
+
+dash attack:
+bkb:35<50
+
+d tilt:
+angle:65<75
+
+f tilt:
+2nd hit hitbox size:6<7
+added momentum boost between 1st and 2nd hit
+first hit damage:4<6
+startup sped up:1.6<1.8
+
+f smash:
+damage:19<21
+
+d smash:
+bkb:20<30
+
+up air:
+endlag sped up 1.4
+
+up b:
+sped up:1.4x<1.5x
+multihits reduced and sdi multiplier:.8<.2
+can now cancel with a double jump
+
+side b:
+damage:15<16
+angle:365<35
+kbg:75<83
+
+neutral b:
+ko punch sdi multiplier:1.5<.2
+haymaker startup sped up 1.4x
+lvl 1 haymaker charge attack sped up 1.3x
+
+up throw:
+kbg:30<70
+bkb:80<50
+
+d throw:
+angle:65<75
+_____________________________________________________________________________________________
+rev 8 changes:
+
+little mac has a massive animation and model overhaul. this does affect some moves somewhat but he largely plays the same.
+
+up smash:
+new changes removes his massive slide when up smashing out of run
+
+neutral b:
+KO punch hitbox sizes:15<7
+KO punch massivley rebalanced
+damage:35<23
+bkb:130<90
+kbg:30<45
+
+dair:
+bkb:15<30
+kbg:50<25
+
+can no longer jump cancel up b in the air, can only cancel it if done from the ground
+
+f tilt:
+first hit angle:361<290
+no longer jab locks
+between hits sped up 1.3x
+
+up b:
+kbg:100<80
+
+jab:
+jab 3 damage:6<5
+
+up tilt:
+damage:9<8
+
+d tilt:
+damage:11<9
+_______________________________________________________________________________________
+rev 9:
+
+Massive overhaul, now uses PMEX mac as a base, tried to ensure he plays largely the same
+__________________________________________________________________________________________
+rev 9.5:
+
+down b:
+cancel frame:16<13
+
+f tilt:
+first hit angle vs aerial opponents:270<365
+
+d smash:
+reduced hitbox sizes
+reduced duration of first hit hitboxes
+_________________________________________________________________________________________
+rev 10:
+
+fixed a lot of buggy invincibility on getups and rolls
+aerial hitbox sizes reduced across the board 
+
+run:
+2.21<2.45
+
+weight:
+89<88
+
+down b:
+cancel frame: 13<15
+this move is no longer a counter, it's now a high startup unblockable tripping punch
+
+f tilt:
+hitbox sizes:5/7/8 < 4/5/6
+can now only cancel into specials if hit connects
+
+up smash:
+hitbox sizes:8<5
+kbg:105<90
+
+side b:
+added .65 slowdown on the aerial version endlag
+hitbox sizes reduced
+
+d throw:
+angle:90<55
+bkb:35<60
+kbg:80<60
+
+up throw:
+angle:85<65
+
+grab:
+slowed .8x
+
+f smash:
+startup slowed .8x
+damage:21<20
+down angle damage:26<22
+down angle removed .8 slowdown
+reworked hitboxes to always send the correct direction
+
+nair:
+damage:6<4
+now has unique properties vs ground/air opponents
+grounded opponent angle:55
+
+dair:
+damage:8<6
+
+d tilt:
+kbg:25<35
+
+jab:
+jab 1 bkb:35<10

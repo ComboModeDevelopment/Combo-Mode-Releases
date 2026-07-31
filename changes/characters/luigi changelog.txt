@@ -1,0 +1,214 @@
+luigi changes:
+
+run speed:1.34<1.45
+
+dash attack:
+sped up 1.3X
+final hit damage:2<4
+sdi multiplier on multihit:1.6<.5
+multihit bkb:1<5
+
+dtilt:
+hitbox id 0 matches all other hitbox angles (361<270)
+iasa:35<28
+trip rate:.3<1. (move now has a 100% trip rate, should be noted that will only trip for as long as the move doesn't launch and trip cannot combo into itself, i.e. this should not cause infinites)
+
+upsmash:
+sweetspot damage:15<18
+sourspot damage:12<15
+
+fair:
+damage:10<12
+
+bair:
+now has a prominent sweetspot on initial hit
+sweetspot damage:12<16
+kbg:100<110
+
+dair:
+hitbox id 0 angle:361<270
+
+upair:
+angle:55<65
+
+up b:
+sweetspot size:2<5
+sweetspot active frames:1<3
+
+down b:
+final hitbox active frames:1<4
+________________________________________________________________________________________
+rev 4 changes:
+
+initial dash speed:1.28<1.5
+crawl speed increased: .7/.4 < 1.2
+____________________________________________________________________________________
+rev 5 changes:
+
+jab:
+can now cancel jab 2 into specials
+
+dash attack:
+can special cancel before the final hit
+________________________________________________________________________________________
+rev 7 changes:
+
+run speed:1.45<1.57
+buffed ground to air momentum
+
+d tilt:
+added set knockback:10
+sped up endlag 1.2x
+angle:270<361
+
+d smash:
+front hit angle:120<52
+back hit angle:70<120
+endlag sped up 1.3x
+iasa:35<30
+
+fair:
+damage:12<15
+
+neutral b:
+can now landing cancel
+fireballs last longer:50<75
+hitlag:1<2
+
+down b:
+removed multihit on ground version
+endlag sped up 1.35x
+
+nair:
+sped up 1.2x after initial hit
+
+side b:
+can cancel ending into specials or jump
+___________________________________________________________________________________________
+rev 8 changes:
+
+now has a psuedo-wavedash, cancel jumpsquat by hitting shield and luigi will burst forward
+
+f tilt:
+low angle f tilt iasa:32<27
+low angle f tilt sped up 1.5x
+other angles iasa:34<30
+endlag sped up 1.7x
+bkb:2<40
+can now cancel f tilt with jump
+
+dair:
+now a multihit
+
+up air:
+angle:65<80
+endlag sped up 1.3x
+iasa:30<25
+kbg:100<60
+bkb:0<20
+
+f smash:
+startup sped up 1.8x
+
+upsmash:
+startup sped up 1.3x
+can now slide during up smash
+
+d smash:
+no longer makes luigi slide
+all angles made 361
+startup sped up 1.3x
+kbg:80<100
+
+d throw:
+angle:80<90
+bkb:75<90
+kbg:30<20
+
+up tilt:
+bkb:30<60
+kbg:123<50
+sped up 1.3x
+
+nair:
+sped up after initial hit 1.6x
+iasa:46<39
+
+down b:
+can now cancel into attacks
+
+up b:
+aerial up b now as strong as grounded up b
+_______________________________________________________________________________________________
+rev 9:
+
+removed wavedash
+________________________________________________________________________________________
+rev 10:
+
+improved aerial mobility
+increased fall speed
+
+run:
+1.57<1.6
+
+weight:
+97<98
+
+down b:
+can now cancel the move with ground attacks after starting in the air (couldn't do this before)
+aerial version multihit reworked 
+
+fair:
+angle:361<55
+
+d tilt:
+endlag sped up 1.4x
+
+dair:
+reworked multihit and now has final hit
+
+dash attack:
+reworked multihits to function
+final hit angle:361<90
+sped up endlag 1.5x
+
+d smash:
+now carries momentum again
+
+jab:
+can cancel jab 2 into attacks
+___________________________________________________________________________________
+rev 11:
+
+fixed shield reflect bubble
+
+down b:
+aerial down b angle:365<361
+can no longer cancel aerial down b into attacks after landing
+can cancel grounded down b into attacks much earlier
+can cancel down b into jump
+endlag of aerial down b sped up 1.5x
+
+fair:
+slowed startup .2x
+damage:15<16
+kbg:80<85
+angle:55<30
+hitlag:1.4<1.8
+
+bair:
+hitlag:1.6<2
+kbg:110<100
+
+dair:
+damage on multihit:3<2
+
+d smash:
+now boosts luigi forward
+angle:361<270(grounded)/90(air)
+extended hitbox duration:2<4
+
+dash attack:
+final hit now trips
+removed speed up during move

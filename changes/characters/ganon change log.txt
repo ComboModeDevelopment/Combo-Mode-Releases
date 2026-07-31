@@ -1,0 +1,217 @@
+ganon changes:
+
+run speed:1.16<1.36
+
+side special:
+can now cancel the ground and air version into a grounded attack much faster after grab connects
+
+up tilt:
+windboxes removed, entire mid length of move sped up x4.5
+
+jab:
+sped up 1.3x
+
+nair:
+swapped hitbox id's on 0 and 2
+
+bair:
+sweetspot damage:16<17
+
+fair:
+fixed the iasa so it functions properly (iasa 45)
+_______________________________________________________________________________
+rev 2 changes:
+
+ganon has his P+ dash and run animation
+
+his run speed buff wasn't saved previously so now his run speed is properly 1.36
+
+initital dash speed:1.3<1.5
+
+d smash:
+first hit now matches 2nd hit, move is no longer a multihit
+damage:14<16
+2nd hit kbg:75<90
+
+d throw:
+angle:65<75
+_______________________________________________________________________________
+rev 3 changes:
+
+up tilt:
+ganon has a completely new uptilt repurposing his swing tilt animation.
+it's now an uppercut.
+bkb:30
+kbg:100
+damage:11
+_________________________________________________________________________________
+rev 5 changes:
+
+side b:
+if ganon still has his double jump during an aerial grab he can jump out of it.
+
+down b:
+landing lag now sped up 2x
+grounded damage:12/10<17
+grounded kbg:70<80
+aerial late hit angle:80<290
+_____________________________________________________________________________________
+rev 7 changes:
+
+buffed air mobility
+
+neutral special:
+sped up 1.2x
+
+f tilt:
+sped up 1.2x
+
+d tilt:
+sped up 1.2x
+
+jab:
+startup sped up 2x, rest of move still sped up 1.3x
+
+dash attack:
+sped up 1.2x
+angle:105/100<80
+
+bair:
+kbg:85<95
+
+side b:
+sped up 1.2x
+
+nair:
+endlag sped up 1.4x
+iasa:45<40
+
+dair:
+endlag sped up 1.3x
+iasa:45<40
+
+up tilt:
+removed a .8x slowdown on endlag
+
+fair:
+sourspot damage:15<17
+sweetspot damage:18<19
+endlag sped up 1.4x
+
+up b:
+startup sped up 1.8x, rest sped up 1.1x
+can cancel release into a double jump or another special
+
+grab:
+range buffed, size buffed
+
+up throw:
+kbg:106<85
+endlag sped up 1.35x
+_____________________________________________________________________________________
+rev 8 changes:
+
+side b:
+landing aerial side b now restores your double jump if you used it, meaning you can always jump out of air side b when it connects now
+grounded side b now sped up 1.35x
+after connecting you can now act out of it with anything rather than just attacks
+
+down b:
+aerial down b restored double jump again
+_______________________________________________________________________________________
+rev 9:
+
+dash attack:
+first active frame:10<8
+
+down b:
+can now double jump out of endlag sooner
+
+down b:
+damage:17<16
+kbg:80<75
+buffed hitboxes sizes to match move
+
+side b:
+aerial side b now launches the opponent upwards after landing with a grabbed opponent
+grounded side b iasa:53<49
+
+fair/bair:
+sweetspot hitlag increased to indicate landing it better
+
+up smash:
+hitbox id0/1 swapped
+id1 is now a stronger sweetspot
+startup sped up 1.4x, rest slowed .9x
+_________________________________________________________________________________________________
+rev 9.5:
+
+run speed:1.36<1.5
+
+side b:
+grounded iasa reverted
+air first active frame:19<15
+ground first active frame:16<15
+aerial side b now has a weak hitbox on it that allows ganon to scoop opponents off a platform off a missed tech
+____________________________________________________________________________________________
+rev 10:
+
+slightly buffed jump height so he can now reach plats easier
+
+weight:
+109<114
+
+jab:
+new animation
+adjusted hitboxes to cover more area
+now reflects projectiles
+
+up b:
+final hit knockback fixed and endlag sped up
+
+up tilt:
+edited the animation so the move now has more range and looks better
+endlag sped up 1.2x
+
+d tilt:
+edited the animation to give the move more range
+all angles made 80 vs aerial opponents, 276 vs grounded
+endlag sped up 1.3x
+
+f tilt:
+startup sped up 1.4x, endlag sped up 1.3x
+now has down angled f tilt (P+) and up angled f tilt (which is P+ up tilt)
+
+up smash:
+edited the animation so ganon swings his leg out in front of him (more range), reworked hitboxes
+
+side b:
+increased aerial miss landing lag:20<40
+reduced aerial grab hitbox sizes + adjusted placement
+aerial version launch angle:80<70
+slowed aerial version startup
+can now only jump out of aerial side b if you still have your double jump
+aerial side b now has an alternative angle if B is held that kills on DI away
+
+up air:
+first active frame 1 frame earlier
+
+nair:
+1st hit all angles made 65
+2nd hit all angles made 55
+adjusted animation to make 2nd hit lower
+1st hit damage:11<9
+1st hit kbg:100<75
+1st hit bkb:30<55
+
+fair:
+swapped hitbox priority, sweetspot easier to land
+
+d smash:
+restored it as a multihit that combos similar to melee
+
+f smash:
+buffed all damage
+
+down b:
+buffed hitboxes to cover his leg fully

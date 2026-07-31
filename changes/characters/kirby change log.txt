@@ -1,0 +1,105 @@
+kirby changes:
+
+air speed increased
+
+side special:
+aerial side special sped up 1.2x
+aerial side special angle:55<30
+sweetspot damage:17<19
+_________________________________________________________________________________________
+rev 4 changes:
+
+multijumps fixed.
+
+up air:
+startup+endlag sped up 1.3x
+
+fair:
+final hit angle:361<55
+
+dair:
+added skb (10)
+bkb:20<25
+
+f throw:
+angle:56<97
+_______________________________________________________________________________________
+rev 6 changes:
+
+fair:
+hit 1+2 angles all made 365
+move sped up 1.2x
+
+up b:
+cancel cancel the landing into attacks
+
+down b:
+sped up 1.6x
+__________________________________________________________________________________
+rev 7:
+
+jab:
+angle:361<80
+___________________________________________________________________________________________
+rev 8:
+
+Kirby has been ported from P+ and rebalanced for combo mode. he has been given back many CM values while keeping P+ abilities, specials, and moves
+___________________________________________________________________________________
+rev 9:
+
+d throw:
+angle:50<90
+bkb:50
+kbg:60
+____________________________________________________________________________________________
+rev 10:
+
+dash:
+1.5<1.62
+
+run:
+1.5<1.65
+
+weight:
+74<82
+
+side b:
+aerial startup sped up: 1.2<1.6x
+whole move made the sweetspot
+ground startup sped up: 1.6<1.8x
+both hits are equally strong in air
+
+up tilt:
+damage:7/5<9/7
+kbg:102<90
+
+dash attack:
+sped up 1.2x
+bkb:45<60
+kbg:100<70
+
+d smash:
+new animation
+damage:14<17
+angle:50<35
+
+up air:
+angle:70<85
+
+up smash:
+sped up 1.3x
+
+jab:
+rapid jab now locks oppponent in place, then links into a dash attack
+___________________________________________________________________________________________
+rev 11:
+
+air mobility buffed
+
+dair:
+startup sped 2x
+angle:270<365
+
+f throw:
+angle:84<95
+sped up 1.4x

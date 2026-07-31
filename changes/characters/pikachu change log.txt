@@ -1,0 +1,153 @@
+pikachu changes:
+_________________________________________________________________________
+rev 3 changes:
+
+bair:
+now has P+ bair, a single hit kill aerial.
+
+up smash:
+hitbox id0 damage:14<17
+hitbox id0 bkb:40<50
+hitbox id0 kbg:90<100
+endlag slowed .7x
+______________________________________________________________________________
+rev7 changes:
+
+jab:
+swapped hitbox id 0/2
+angle:0<361
+bkb:4<15
+kbg:30<50
+sdi multiplier:1<2
+
+up smash:
+hitbox id 1 now shares same values as 0
+damage:17<16
+bkb:50<45
+kbg:100<95
+removed slowdown on endlag
+
+d smash:
+sdi multiplier:1.2<.8
+
+dash attack:
+endlag sped up 1.35x
+
+d tilt:
+angle:361<55
+
+nair:
+sweetspot angle:361<55
+
+bair:
+kbg:100<110
+
+d throw:
+kbg:38<80
+_______________________________________________________________________________________
+rev 8 changes:
+
+up air:
+damage:all made 7
+kbg:60<80
+____________________________________________________________________________
+rev 9 changes:
+
+run speed:1.76<1.87
+
+ground to air momentum increased
+
+dash attack:
+more range
+endlag sped up:1.35<1.42
+angle:361<55
+
+nair:
+sourspot angle:361<55
+sweetspot kbg:100<115
+
+up throw:
+bkb:90<75
+
+dair:
+kbg:80<95
+swapped hitbox id 1 and 0
+hitbox id1 angle:361<270
+basically this move now has a spike sweetspot on pika's head
+
+fair:
+multihit angle:74<365
+added 2 more hits
+removed frame between hits
+sdi mult:1<.3
+
+up tilt:
+all angles made 90
+damage all made 7
+
+up smash:
+extended sweetspot duration:2<4
+sweetspot damage:16<17
+sweetspot bkb:45<50
+sweetspot kbg:95<100
+
+bair:
+sweetspot active frames:1<2
+
+up air + f smash given P+ hitboxes
+_______________________________________________________________________________________
+rev 10:
+
+weight:
+79<84
+
+dash attack:
+reduced range slightly
+
+all tail moves have had their range buffed heavily
+tail has its hurtboxes removed, it's now a disjoint
+
+up smash:
+sweetspot duration extended, only one sourspot to hit (was 2 before)
+
+up tilt:
+damage:7<9
+
+dair:
+sourspot can only hit aerial opponents, spike will always connect on grounded opponents
+
+d tilt:
+can now slide during move
+
+side b:
+charge time reduced
+now much stronger
+sped up endlag
+
+neutral b:
+sped up 1.6x
+jolts have more hitlag
+jolts last twice as long
+angle vs ground:361<66
+angle vs air:361<30
+
+d smash:
+hitbox id 2 size buffed, angle:90<365
+multihit links much better
+endlag sped up + added iasa
+
+f tilt:
+sped up endlag 1.4x
+__________________________________________________________________________________________
+rev 11:
+
+d smash:
+sdi multiplier:0<.5
+multihit damage:2<1
+final hit damage:3<5
+final hit angle:90<60
+
+neutral b:
+thunder jolt duration:200<120
+hitlag:1.4<1.2
+slowed:1.6<1.5

@@ -1,0 +1,137 @@
+game and watch changes:
+
+dair:
+removed stall and fall
+sourspot angle:60<270
+sweetspot duration:1<4
+
+dtilt:
+angle:361<80
+
+d throw:
+angle:270<80
+bkb:80<90
+
+bair:
+multihit lowered to just 1 hit into final hit
+final hit damage:3<12
+final hit kbg:170<100
+__________________________________________________________________
+rev 2 changes:
+
+dair:
+removed a bug where the meteor hit of his dair was lasting the entire length of the move.
+dair now functions properly:
+spike hitbox:11-15
+sourspot:15<38
+_______________________________________________________________________________
+rev 3 changes:
+
+d tilt: 
+active frames: 5-15 < 5-10
+
+dair:
+spike hitbox active frames:4 < 1
+late hit duraction has been sped up 1.3x, effectivley making it linger for less time, endlag slowed .7x to compensate.
+size: 4.32/6.24 < 3.5/5
+____________________________________________________________________________________
+rev 6 changes:
+
+jab:
+jab 1 can now cancel into grab
+
+bair:
+now has 2 multihits before final hit, no longer kills
+multihit now has skb:10
+multihit bkb:25<35
+final hit bkb:30<55
+final his kbg:90<120
+final hit angle:361<62
+final hit damage:12<6
+
+nair:
+removed multihit and made move a single hit kill move
+bkb:25
+kbg:107
+damage:16
+__________________________________________________________________________________________________
+rev 9.5:
+
+run speed: 1.553<1.63
+buffed ground to air momentum
+
+f tilt:
+sped up whole move 1.2x
+
+dash attack:
+angle:120<95
+
+up tilt:
+damage:8<9
+
+d tilt:
+damage:9<10
+
+upsmash:
+sped startup 1.3x
+removed iasa
+
+d smash:
+swapped sourspot and sweetspot priority
+
+fair:
+late hit angle:361<55
+
+up air:
+reworked to function as a proper multihit
+
+dair:
+spike hitbox duartion:1<2
+____________________________________________________________________________________________
+rev10:
+
+dash:
+1.5<1.55
+
+run:
+1.62<1.7
+
+weight:
+75<80
+
+up smash:
+startup sped up 1.45x
+
+d smash:
+startup sped up 2x
+
+fair:
+angle:361<55
+
+bair:
+angle:68<365
+multihit damage:3<1
+multihits:2<4
+
+dair:
+late hit angle:60<80
+
+side b:
+lowered odds of getting a 1, increased odds of getting a 9
+
+up tilt:
+faf:13<11
+sped up 1.3x
+bkb:30<55
+kbg:125<90
+angle:100<93
+
+nair:
+given back his parachute 
+
+up air:
+has been changed to his old nair
+
+jab:
+jab 1 angle:80<120
+rapid jab now leads into dash attack

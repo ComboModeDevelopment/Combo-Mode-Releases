@@ -1,0 +1,62 @@
+combo mode+ changelog overview:
+
+when reading all character stat changes, the format is "old<new"
+_______________________________________________________________________________
+rev 3 general change info:
+
+combo mode now officially has a custom wiimote screen to let you know right away you properly downloaded it.
+
+we've got some new codes in place!
+
+a fix for previous c stick issues. you no longer get tilts with smash stick. attack stick works a bit better but still needs more work to be fully functional.
+back tilt now functions but hitting diagnol angles still makes you jab/nair.
+
+a tech window fix to hopefully make teching a bit easier without making things like footstools and ganon side b techable.
+this is very hard to test alone so you'll have to go by feel.
+
+faster ledgegrab and release. no more laggy edges!
+
+we got a code that exclusivley freezes Warioware and Delphino now as well, so the stage list is even better than ever!
+
+otherwise, lots of new animations on characters in general. balance changes, bug fixes, more unique character abilities.
+
+so that you don't have to search randomly through every character change log, here's all the characters that got changes in rev 3:
+
+purely attribute changes:
+-bowser
+-charizard
+-ddd
+-fox
+-falcon
+-gnw
+-ike
+-link
+-snake
+-sonic
+-toon link
+-wolf
+-zss
+
+changes + new animations/moves:
+-falco
+-ganon
+-donkey kong
+-lucario
+-mario
+-pit
+-pikachu
+-ness
+_________________________________________________________________________________
+Currently unchanged characters:
+
+peach: I have no clue how to play peach, i have never once played peach with any level of proficiency. Similarly, not even anyone i KNOW plays peach. because of this, i have literally no clue how to balance this character in a meaningful way.
+
+Ice climbers: Same as peach.
+
+Olimar: Every single pikmin olimar can use has different stats that all indiviually need balanced. i'm not doing that. nobody plays this stupid ass character. i'll worry about it later.
+
+Wario: I totally could rework this character, but i don't want to right now. i hate this fat ugly farting piece of shit. i don't wanna give him awesome combos, he's fucking stupid.
+_________________________________________________________________________________
+New Characters:
+
+Roy

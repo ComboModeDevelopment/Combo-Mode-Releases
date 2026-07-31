@@ -1,0 +1,130 @@
+squirtle changes:
+
+run speed:1.35<1.67
+
+dash attack:
+angle:110<361
+damage:9<11
+late hit damage:7<9
+iasa:42<35
+
+f tilt:
+trip rate:0<1 (now has a 100% trip rate, see luigi d tilt for details about mechanics)
+
+up tilt:
+damage:6<8
+
+d tilt:
+final hit:65<100
+iasa:37<30
+
+upsmash:
+sweetspot:13<16
+
+d smash:
+damage:11<12
+
+nair:
+size initial hit:5<7
+size late hit:3<5.5
+
+fair:
+angle:45<55
+
+dair:
+final hit angle:30<85
+bkb:70<30
+
+up throw:
+kbg:75<35
+____________________________________________________________________________
+rev 2 changes:
+
+run speed didn't save before, is now properly 1.67
+_______________________________________________________________________________
+rev 5 changes:
+
+side b:
+startup sped up 1.2x
+can now cancel into attacks
+angle:80<361
+kbg:50<30
+damage:3<6
+
+up b:
+final hit damage:3<8
+final hit kbg:130<140
+sped up 1.3x
+
+up smash:
+first hit damage:16<18
+first hit kbg:87<93
+
+d smash:
+startup sped up 1.35x
+damage:12<14
+
+f smash:
+damage:14<17
+________________________________________________________________________________________
+rev 7 changes:
+
+jab:
+jab 1+2 angle:361<70
+
+side b:
+removed hitbox on move, still can be attack canceled and double jump canceled
+_______________________________________________________________________________________
+rev 8 changes:
+
+fair:
+kbg:94<110
+bkb:30<35
+_____________________________________________________________________________________
+rev 10:
+
+now uses P+ base
+
+run:
+1.67<1.84
+
+weight:
+75<84
+
+up b:
+now made a single strong hit
+
+dair:
+angle:94<365
+bkb:0<25
+multihit damage:1<2
+
+d smash:
+sped up startup:1.35<2
+
+up smash:
+now a multihit
+
+nair:
+angle:361<55
+damage:9/6<11/9
+
+d tilt:
+new animation
+
+f smash:
+kbg:100<115
+
+up tilt:
+no longer carries momemtum
+
+dash attack:
+angle:361<55
+
+side b:
+startup sped up:1.2<2x
+________________________________________________________________________________________
+rev 11:
+
+nair:
+removed armor

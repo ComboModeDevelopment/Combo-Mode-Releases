@@ -1,0 +1,190 @@
+zss changes:
+
+removed items on match start
+
+short hop reduced 1.988<1.65
+
+neutral b:
+duration of projectile increased
+
+up b:
+snaps to edge much faster
+edge grab length increased
+
+dash attack:
+angle:361<75
+
+up tilt:
+iasa:46<31
+
+fsmash:
+tipper hitbox damage:6<13
+tipper hitbox kbg:100<120
+_______________________________________________________________________________
+rev 3 changes:
+
+d smash:
+startup sped up 1.2
+endlag slowed .7x
+iasa:21<26
+
+f smash:
+damage on every hitbox made 13
+
+fair:
+added skb on first hit (20)
+sped up between hits 1.3x
+first hit angle:361<80
+
+nair:
+angle:50<60
+
+grab:
+sped up 1.2x and endlag sped up 2x
+
+up throw:
+iasa:55<30
+angle:73<85
+
+dair:
+angle vs grounded opponents:361<275
+bkb vs grounded opponents:35<40
+added skb on grounded opponents (20)
+angle vs aerial opponents:275<10
+kbg vs grounded opponents:90<50
+can now be special canceled
+damage:5/4<9
+
+up b:
+sped up 1.2x
+changed hitboxes to make the spike more consistent
+
+down b:
+can now double jump out of the flip
+_____________________________________________________________________________________________
+rev 7 changes:
+
+f smash:
+now has ultimate f smash, however this one is much stronger
+
+down b:
+kick now has no landing lag
+can now also double jump out grounded version
+
+neutral b:
+can now be landing canceled
+___________________________________________________________________________________________
+rev 8 changes:
+
+buffed air mobility and ground to air momentum
+
+neutral b:
+sped up 1.2x in the air
+
+dash attack:
+first hit angle:75<65
+iasa:32<28
+damage:7<9
+late hit damage:5<7
+
+f tilt:
+down angle trip rate:.6<1
+up/neutral damage:6<9
+up angle:361<60
+
+up tilt:
+2nd hit damage:6<8
+first hit added skb:10
+
+d tilt:
+damage:6<9
+
+f smash:
+sped up between hits
+2nd hit damage:12<13
+2nd hit kbg:109<115
+first hit bkb increased, will now launch out of stun
+
+d smash:
+sped up startup 1.4x
+removed slowdown on endlag
+damage:11<12
+
+up b:
+added iasa:34
+
+side b:
+no longer a multihit, just the strong final hit with improved hitboxes
+
+down b:
+can cancel into specials
+
+dair:
+now trips
+angle:270<361
+
+fair:
+sped up between hits 2.3x
+2nd hit kbg:105<115
+
+nair:
+angle:60<70
+
+bair:
+damage:13<15
+kbg:100<105
+
+up smash:
+copy pasted P+ upsmash values lol
+
+d throw and up throw sped up 1.3x
+______________________________________________________________________________________________
+rev 9:
+
+fair:
+first hit angle:80<365
+_______________________________________________________________________________________
+rev 10:
+
+run:
+1.93<2
+
+weight:
+81<92
+
+up air:
+slowed during attack to make sure hitboxes track the move better
+
+jab:
+can now cancel jab 2 into attacks
+
+fair:
+given new properties vs ground and air opponents to help the move connect better
+
+side b:
+removed speed up on move
+
+bair:
+damage:15<16
+
+f tilt:
+sped up 1.4x
+
+up tilt:
+improved hitboxes and sped up endlag 1.2x
+
+dash attack:
+buffed hitbox sizes
+
+nair:
+new nair
+
+down b:
+in air, now goes straight up
+
+neutral b:
+startup sped up 2x
+damage:4/6<6/8
+
+dair:
+no more skb on grounded hit to prevent infinite 

@@ -1,0 +1,191 @@
+zelda changelog:
+
+double jump height increased (.86<1)
+
+jab:
+sped up 1.2x
+multihit angle:361<270
+
+dash attack:
+switched hitbox angles
+
+f tilt:
+iasa:40<30
+
+up tilt:
+sped up 1.2x
+iasa:48<39 (even sooner with 1.2x speed)
+
+f smash:
+hitlag multiplier:1<.5 (can you believe this move already has a .5 sdi multiplier)
+multihit angles all made 270
+
+nair:
+multihit angles all made 90
+skb:75<25
+
+fair/bair:
+sweetspot hitbox larger:1.7<3.2
+sweetspot active frames:1<2
+
+dair:
+sweetspot size:1.7<4.5
+sweetspot duration:1<3
+sweetspot can now hit grounded opponents
+
+neutral b:
+can now be canceled into attacks when grounded
+angle:10<100
+
+side b:
+projectile moves much faster and can be turned much faster
+
+grab:
+sped up 1.3x
+________________________________________________________________________________________
+rev 7 changes:
+
+run speed:1.224<1.35
+
+jab:
+multihit angle:270<365
+
+dash attack:
+sweetspot id0 kbg:70<90
+
+f tilt:
+sped up 1.3x
+
+up tilt:
+sped up:1.2x<1.4x
+angle:70<80
+kbg:105<70
+bkb:65<45
+
+f smash:
+sdi multiplier:.5<.2
+final hit kbg:105<115
+
+nair:
+sped up 1.2x
+multihit angle:90<365
+final hit angle:361<55
+
+up air:
+sped up 1.2x
+
+d tilt:
+angle:270<80
+
+up throw:
+kbg:50<40
+bkb:80<65
+
+d throw:
+angle:120<105
+iasa:70<62
+
+neutral b:
+multihit angle:100<365
+
+side b:
+hitlag multiplier:1<2
+sdi multiplier:1<.3
+size:6<8
+
+up b:
+grounded up b hitbox angle:361<270
+added skb:10
+can now cancel the move after 10 frames
+_________________________________________________________________________________________
+rev 8 changes:
+
+buffed air mobility
+
+jab:
+sped up startup 2.3x
+adjust active frames on multihit
+final hit angle:361<55
+final hit damage:2<4
+bkb:10<25
+
+f tilt:
+angle:110<100
+
+grab:
+startup sped up 1.9
+dash grab faf:11<5
+dash grab active frames:2<7
+
+f smash:
+multihit angle:270<90
+removed down time between multihits
+
+fair:
+sourspot angle:361<55
+iasa:40<32
+sourspot bkb:5<45
+
+bair:
+iasa:36<29
+sourspot bkb:5<45
+
+dair:
+iasa:45<37
+sourspot trip rate:0<1
+
+d throw:
+sped up 1.2x
+angle:105<90
+
+side b:
+startup+endlag sped up 1.2x
+no longer puts zelda into special fall
+can double jump out of aerial end lag
+
+up b:
+sped up 1.2x
+_____________________________________________________________________________________________
+rev 10:
+
+dash:
+1.25<1.5
+
+run:
+1.35<1.45
+
+weight:
+85<94
+
+fair/bair:
+sourspot damage:4<8
+
+nair:
+added an initial hit to help combo into multihit
+
+d smash:
+damage:12/10<16/14
+bkb:20<35
+
+up air:
+hitbox size:8.9<10
+damage:15<19
+kbg:110<90
+
+neutral b:
+multihit comes out earlier and last longer
+
+f smash:
+removed multihit, now a single strong hit, increased range
+
+jab:
+buffed multihit
+
+up throw:
+bkb:65<80
+kbg:40<60
+_________________________________________________________________________________________
+rev 11:
+
+d throw:
+angle:90<120

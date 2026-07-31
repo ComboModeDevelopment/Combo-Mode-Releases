@@ -1,0 +1,144 @@
+Peach changes:
+_______________________________________________________________________________
+rev 6 changes:
+
+buffed air mobility and double jump
+
+dash attack:
+first hit angle:361<365
+2nd hit damage:4<7
+move sped up 1.2x after 1st hit
+
+up tilt:
+angle:60<90
+
+d tilt:
+sped up 1.2x, given more end lag to compensate
+hitbox id 1/0 size:5.1<5.8
+
+up smash:
+damage on hitbox id 0:15<17
+id 1/0 kbg:100<110
+
+d smash:
+added a final hit that launches at 73 degrees
+multihits now have set kb:10
+multihit sdi multiplier:1<.4
+multihit angle:145<365
+endlag sped up 1.25x
+
+fair:
+kbg:68<78
+bkb:60<65
+
+up air:
+hitbox id 2 angle:361<90
+bkb:0<35
+kbg:100<80
+end lag spend up 1.4x
+
+dair:
+multihit sped up 1.3x
+last hit+endlag slowed .9x
+_________________________________________________________________________________
+rev 7 changes:
+
+dash attack:
+no longer a multihit
+endlag sped up 1.3x
+first hit angle:365<75
+2nd hit angle:65<361
+1st hit kbg:50<80
+
+f tilt:
+endlag sped up 1.2x
+
+nair:
+late hit angle:361<55
+endlag sped up 1.2x
+
+up tilt:
+sped up 1.2x
+
+bair:
+endlag sped up 1.2x
+
+down b:
+sped up turnip pull 1.2x
+________________________________________________________________________________
+rev 8 changes:
+
+dash attack:
+sped up between hits 2x
+added skb to first hit:10
+first hit damage:11<8
+2nd hit angle:361<80
+2nd hit kbg:125<90
+
+d smash:
+endlag sped up 1.6
+final hit angle:78<10
+added skb to final hit:10
+
+dair:
+multihit angle:70<365
+sped up multihit 1.5x
+
+nair:
+endlag sped up 1.5x
+_______________________________________________________________________________________
+rev 9.5:
+
+jab:
+damage:3<5
+angle:74<80
+bkb:0<30
+iasa:20<18
+
+f tilt:
+endlag sped up 1.3x
+________________________________________________________________________________________
+rev 10:
+
+buffed air mobility
+
+weight:
+90<94
+
+dash attack:
+sped up between hits + endlag more
+reworked first hit to connect better
+
+d smash:
+sped up endlag:1.6<1.7
+multihit damage:5<2
+reworked multihit to link better
+sped up endlag
+
+fair:
+sped up 1.5x
+damage:15<16
+angle:361<40
+kbg:78<80
+bkb:65<60
+given better swing arc
+
+nair:
+angle:361<55
+
+side b:
+sped up 1.35x
+
+up b:
+can now grab edge from the back
+
+down b:
+sped up 1.4x
+
+up smash:
+kbg:110<90
+___________________________________________________________________________________
+rev 11:
+
+down b:
+can now pluck turnips in the air

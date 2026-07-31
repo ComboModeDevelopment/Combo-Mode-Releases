@@ -1,0 +1,186 @@
+bowser changes:
+
+up b vertical height buffed.
+
+run speed:1.5<1.6
+shield size:15<20
+double jump multiplier:1<1.1
+
+dash attack:
+iasa:56<41
+bkb:120<80
+
+uptilt:
+iasa:51<43
+hitbox duration:8-13<6-13
+kbg:97<70
+
+Fsmash:
+first hit angle:361<270 (makes the 2 hits link better)
+removed sourspots on 2nd hit
+
+Fair:
+iasa:42<38
+
+nair:
+angle:361<55
+
+Dair:
+angle:80<270
+skb:10<20
+sdi multiplier:1<.4
+
+down special:
+angle:78<270
+
+up throw:
+angle:70<80
+bkb:120<110
+
+side b:
+sped up 1.3
+angle:60<100
+__________________________________________________________________________
+rev 2 changes:
+
+up b:
+removed invincibility on startup
+
+dair:
+skb:20<30
+
+Fsmash:
+first hit angle:361<365 (makes the 2 hits link better)
+added skb to 1st hit (30)
+removed sourspots on 2nd hit
+2nd hit hitbox id0 size:7.3<9
+hitlag:1.2<1.3
+___________________________________________________________________________
+rev 3 changes:
+
+f smash:
+removed multihit, first hit damage has been given to 2nd hit sweetspot
+hitbox id0 damage:23<32
+kbg:90<75
+
+d tilt:
+fixed hitboxes, now actually cover his hands.
+both hits meant to combo into eachother now.
+first hit trip rate:.3<1
+firt hit damage:14<6
+first hit angle:361<270
+2nd hit bkb:12<30
+
+fair:
+kbg:80<95
+damage:14/12/11<15/14/13
+_______________________________________________________________________________
+rev 4 changes:
+
+side b:
+can no longer be manipulated to move left and right(forgot to mention in last patch)
+angle:100<361
+damage:18<20
+kbg:50<60
+
+down smash:
+added invincibility on frames 4-9
+sped up 1.3x
+added skb to multihits (30)
+
+down b:
+aerial animation sped up 1.4x
+landing hitbox angle:76<361
+
+nair:
+sped up 1.2x
+iasa:48<40
+_____________________________________________________________________________
+rev 7 changes:
+
+now has 12% armor on crouch
+
+d tilt:
+startup slowdown:.7x<.8
+iasa:32<28
+angle:25<55
+
+d smash:
+hitbox sizes all increased by 3
+sdi multiplier:1<.5
+hitbox id 2+3 angle:190<365
+
+bair:
+iasa:50<43
+endlag sped up 1.2x
+
+f tilt:
+down angled angle:361<30
+up angled anle:361<65
+up angled sped up 1.25
+
+jab:
+jab 1 sped up 1.35
+jab 1 hitbox id 0 angle:30<75
+
+down b:
+can cancel the rise into attacks or double jump
+sped up 1.3
+
+up smash:
+has 14% heavy armor during initial hit of the move and charge
+______________________________________________________________________________
+rev 8 changes:
+
+f smash:
+fixed active frames, comes out a bit earlier
+_______________________________________________________________________________________
+rev 9.5:
+
+now built off P+ bowser with a bunch of his original combo mode values
+removed all previous armor and P+ armor
+________________________________________________________________________________________
+rev 10:
+
+neutral b:
+fireball damage:15<19
+size:8.25<9.5
+
+jab:
+jab 1 iasa:20<26
+
+dash attack:
+endlag sped up 1.3x
+
+f tilt:
+damage:11<16
+
+up air:
+hitbox size buffed
+
+nair:
+hitbox size buffed
+
+bair:
+hitboxes last longer
+
+fair:
+all damage made 16
+
+dair:
+angle:270<365
+
+down b:
+sped up 1.7x in air, 1.5x on ground
+added hitboxes on startup
+_______________________________________________________________________________________
+rev 11:
+
+neutral b:
+non-fireball version now a kill move
+
+jab:
+jab 2 angle:361<55
+
+down b:
+now has brawl minus neutral b on the ground with some adjustments 

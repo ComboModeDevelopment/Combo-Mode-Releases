@@ -1,0 +1,210 @@
+pit changes:
+
+up b buffed, gains verticality faster 
+
+glide attack:
+angle:75<361
+kbg:80<100
+damage:12<14
+bkb:65<30
+
+dash attack:
+iasa:42<36
+
+uptilt:
+multihit sped up 1.2, startup is the same
+
+upsmash:
+multihit sped up 1.2, startup is the same
+2nd hit angles all made 365
+
+up air:
+multihit angles now all 270 excluding hitbox id0
+multihit skb:80<25
+final hit angle:361<80
+
+dair:
+kbg:80<40
+final hit angle:70<80
+iasa:37<32
+
+nair:
+all multihits changed to 365 angle
+skb:70<50
+final hit:361<55
+_______________________________________________________________________________
+rev 3 changes:
+
+up tilt:
+pit has a new up tilt based off marth's up tilt animation.
+damage:10
+angle:100
+bkb:35
+kbg:85
+
+fair:
+startup slowed .6x
+damage:13/14/15<15
+kbg:82<110
+_________________________________________________________________________________
+rev 4 changes:
+
+up b verticality buffed.
+multijumps buffed.
+
+dair:
+kbg:40<60
+
+up air:
+multihit slowed .8x
+hitbox id 0 angle:90<365
+
+down b:
+minimum amount of time shield must be held out lowered+endlag slowed 1.6x
+___________________________________________________________________________________
+rev 5 changes:
+
+up b verticality buffed even more.
+
+side b:
+can now cancel into attacks
+________________________________________________________________________________________
+rev 7 changes:
+
+up b:
+now has heavy armor, breaks from 13% damage
+now has a momentum boost at the start up the move
+
+up air:
+now a single hit
+
+fair:
+sped up startup:.6x<.85x
+
+dash attack:
+bkb:20<55
+kbg:100<80
+endlag sped up 1.2x
+
+side b:
+can no longer attack cancel side b
+
+neutral b:
+base damage:5<8
+bkb:11<25
+____________________________________________________________________________________
+rev 8 changes:
+
+side b:
+can now cancel grab and attacks
+
+up tilt:
+active frames:5<8
+angle:110<95
+
+grab:
+range buffed +1.5
+
+nair:
+reworked multihit, now only has 3 hits and is sped up 1.5x, endlag slowed .9x
+added bkb to multihit:25
+multihit damage:1<2
+
+up b:
+air armor:13<14
+removed windbox on startup
+grounded up b startup now has a 20% armor state for the first 12 frames where he can also cancel into attack/grab
+________________________________________________________________________________________
+rev 10:
+
+buffed ground to air momentum
+
+run:
+1.583<1.75
+
+weight:
+94<92
+
+up b:
+given proper armor during aerial version
+buffed mobility
+
+fair:
+given new animation and hitbox values
+
+dair:
+sped up whole move 1.5x
+angle:80<90
+
+up air:
+new animation, new properties
+
+nair:
+given more multihits, new animations, links much better
+
+d tilt:
+new animation
+sped up endlag 1.4x
+hitbox sizes increased
+
+up tilt:
+new animation
+bkb:35<55
+kbg:85<60
+
+f tilt:
+endlag sped up 1.4x
+
+neutral b:
+buffed arrow mobility+charge time
+sped up startup + endlag 1.2x
+arrow angle:60<80
+
+jab:
+jab 3 angle:361<80
+jab 3 damage:5<7
+jab 3 endlag sped up 1.5x
+removed rapid jab
+
+f smash:
+given new animation and made much stronger
+
+up smash:
+given P+ hitbox data
+
+dash attack:
+given more range + adjusted animation
+endlag sped up more, 1.3x
+
+b throw:
+angle:45<65
+sped up 1.3x
+
+d throw:
+angle:80<65
+
+side b:
+totally reworked
+multihit links better, now has a finisher, can still cancel into grab
+aerial version landing cancels
+
+down b:
+now has killing hitbox on startup
+______________________________________________________________________________________
+rev 11:
+
+up b:
+armor reduced:17>10
+mobility nerfed
+
+side b:
+can no longer cancel into grab before final hit
+no longer landing cancels in air
+fixed aerial version of final hit
+
+down b:
+slowed startup
+damage:19>17
+
+up air:
+increased endlag

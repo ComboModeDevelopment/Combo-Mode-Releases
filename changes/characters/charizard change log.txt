@@ -1,0 +1,206 @@
+charizard changes:
+
+slightly larger
+jump height buffed, glide buffed, air mobility slightly buffed
+shield:10.7<13
+jumps sped up
+
+jab:
+jab 1,2,3 all link better (angles on hit 1+2 all changed to 80)
+jab 3 angles (45, 50, 60, 75) all changed to 80
+
+f smash:
+first hit all angles changed to 270 (hits connect much better)
+
+D smash:
+angle:70<30
+kbg:75<85
+
+up smash:
+iasa:47<40
+2nd hit frames:14-18<12-20 (makes hits link much better)
+
+dair:
+dair vs grounded opponents now meteors (70<270)
+
+up air:
+iasa:47<39
+
+up throw:
+kbg:140<90
+_______________________________________________________________________________
+rev 2 changes:
+
+nair:
+sped up 1.2x
+
+bair:
+first hit angle:270<365
+
+f smash:
+first hit all angles changed to 365 (hits connect much better)
+_______________________________________________________________________________
+rev 3 changes:
+
+JC grab carries momentum now
+all glide related animations have been sped up
+
+up special:
+removed multihits before strong final hit
+final hit is now the duration of the move.
+active frames:12-28
+damage:4<12
+kbg:150<110
+
+bair:
+removed multihit, gave first hit damage to 2nd hit.
+damage:7/9 < 12/14
+kbg:130<100
+
+
+f smash:
+removed multihit, gave the initial hits damage to the final hit.
+damage:17<22
+________________________________________________________________________________
+rev 4 changes:
+
+up special:
+kbg:110<95
+bkb:70<65
+damage:12<11
+
+up air:
+angle:85<80
+___________________________________________________________________________________
+rev 5 changes:
+
+fair:
+now has his P+ fair animation with unique properties.
+
+sourspot:
+damage:14
+angle:70
+bkb:35
+kbg:90
+
+sweetspot:
+damage:18
+angle:361
+bkb:40
+kbg:80
+
+Dair:
+range nerfed, hitbox id1/2 size:8<6 y offset:-7<-3
+hitbox id2 angle: 361<270
+______________________________________________________________________________________
+rev 7 changes:
+
+fair:
+startup sped up:.65x<.75x
+sweetspot bkb:40<45
+sweetspot kbg:80<85
+
+bair:
+sweetspot damage:14<16
+sweetspot bkb:30<35
+
+dash attack:
+sped up 1.25x after first hit
+added more momentum on startup
+
+d smash:
+can now hit aerial opponents
+
+f smash:
+startup sped up 1.25x
+
+f tilt:
+sped up 1.2x
+
+up b:
+final hit kbg:95<105
+__________________________________________________________________________________________
+rev 8 changes:
+
+bair:
+now has his smash 4 animation and some new properties
+this new bair is slower but has much more range, the sourspot has combo potential while the sweetspot kills as strong as old bair
+
+up b:
+added fire hit effect
+
+up tilt:
+adjusted hitboxes to better cover the animation
+__________________________________________________________________________________________
+rev 10:
+
+now uses P+ base
+
+dash:
+1.3<1.5
+
+run:
+1.8<1.86
+
+weight:
+110<116
+
+buffed ground to air momentum
+
+f smash:
+startup sped up 1.45
+
+jab:
+now just 1 jab
+angle:60
+
+d smash:
+sped up 1.3x
+
+nair:
+angle:361<55
+sped up 1.4x
+
+up air:
+damage:10<13
+kbg:105<80
+
+fair:
+buffed sweetspot size
+sped up 
+
+up smash:
+sped up between hits
+first hit angles all made 365
+completely reworked move to try and make it link better
+slowed startup
+
+back throw:
+angle:361<60
+sped up 1.3x
+iasa:33<28
+
+bair:
+sweetspot damage:16<18
+sweetspot hitbox size increased
+
+dash attack:
+startup sped up 1.2x, endlag sped up 1.35x
+
+d tilt:
+hitbox sizes + range buffed
+sourspot damage:8<10
+sourspot trajectory:65<80
+active frames:2<3
+startup sped up 1.4x
+
+up tilt:
+damage:8<10
+bkb:40<60
+kbg:130<50
+endlag sped up 1.3x
+startup sped up 2x
+hitbox sizes buffed
+
+up b:
+sped up startup 2x, rest of move 1.3x

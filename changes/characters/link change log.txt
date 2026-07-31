@@ -1,0 +1,235 @@
+Link changes:
+
+run speed:1.3<1.55
+
+dash attack:
+iasa:40<34
+
+d tilt:
+sped up 1.2x
+
+upsmash:
+sped up 1.3x
+
+bair:
+first hit angles all made 80
+
+up air:
+kbg:85<65
+bkb:18<30
+
+dthrow:
+angle:110<90
+
+up b:
+removed sourspots, damage all made 16
+kbg:72<82
+___________________________________________________________________________
+rev 3 changes:
+
+down b:
+bomb pull has been sped up 1.4x
+
+side b:
+all rang throws/catches sped up 1.4x
+________________________________________________________________________________________
+rev 4 changes:
+
+dash attack:
+kbg:70<60
+bkb:50<60
+
+up tilt:
+kbg:122<100
+bkb:30<45
+damage:9<11
+
+fair:
+first hit bkb:5<30
+first hit damage:9<12
+2nd hit damage:12<14
+
+bair:
+2nd hit angle:361<57
+___________________________________________________________________________
+rev 5 changes:
+
+double jump increased:.9<.95
+jump buffed:2.46<2.5
+
+jab:
+jab 2 can now cancel into grab/special
+
+f smash:
+first hit now made to link into 2nd, both hits sped up 1.2
+first hit damage:15/14<10
+
+d smash:
+sped up 1.2x
+
+dair:
+sweetspot duration:1<5
+sweespot id0 size:5.2<6.5
+late hit angle:361<270
+_______________________________________________________________________________________
+rev 6 changes:
+
+f smash:
+1st hit angle:80<365
+can now jump cancel 1st hit
+1st hit bkb:25<33
+1st hit trip rate:0<1
+______________________________________________________________________________________
+rev 7 changes:
+
+jab:
+swapped all hitboxes id's to reverse
+hitbox id 2+3 angle:361<100
+
+dair:
+fixed bug where moves would multihit
+__________________________________________________________________________________________
+rev 8 changes:
+
+up b:
+charge time:60<20
+charged damage multiplier:1.6<1.25
+buffed air vertical lift
+buffed horizontal drift
+startup sped up 2x
+faf:4<3
+
+grab:
+sped up 1.25x
+up throw bkb:24<55
+up throw kbg:230<150
+d throw kbg:90<60
+d throw iasa:50<43
+
+up tilt:
+sped up 1.15x after startup
+
+dash attack:
+endlag sped up 1.15x
+_________________________________________________________________________________________________
+rev 9.5:
+
+run speed:1.55<1.62
+dash speed:1.3<1.4
+___________________________________________________________________________________________
+rev 10:
+
+dash:
+1.4<1.44
+
+weight:
+104<106
+
+up tilt:
+fixed hitboxes to cover whole sword
+
+jab:
+can cancel jab 2 into attacks
+
+f smash:
+2nd hit kbg:90<100
+
+down b:
+bomb pull sped up:1.4<1.8
+
+f tilt:
+startup sped up 1.4x
+faf:14<12
+
+nair:
+endlag sped up 1.6x
+late hit angle:361<55
+damage:10/6<12/8
+
+bair:
+first hit angle vs aerial opponents:80<363
+between hits sped up
+endlag sped up 1.35x
+
+fair:
+reworked into a multihit
+
+d tilt:
+buffed hitboxes
+sped up endlag
+now spikes grounded opponents
+
+dash attack:
+faf:7<5
+
+neutral b:
+arrows last longer, are stronger, are faster, send at a lower angle
+___________________________________________________________________________________________
+rev 11:
+
+given P+ run animation
+
+jump height buffed
+
+run speed:
+1.62<1.73
+
+dash:
+1.44<1.9
+
+buffed air mobility
+
+f tilt:
+new animation with new properties
+now angleable
+
+d tilt:
+startup sped up:1.2<1.3
+always spikes vs grounded opponents
+hitlag:1x<.8
+
+fair:
+startup sped up:1.2<1.5
+first hit hitlag:1<.8
+
+dair:
+startup hitbox damage all made 22
+endlag sped up 2x
+can now jump out of move after it connects
+
+neutral b:
+startup sped up:1.4<1.6
+endlag slowed:1.4x<1.1x
+can cancel charge with shield
+
+side b:
+startup sped up:1.4<1.7
+returns to link better
+angle:70<120
+
+up tilt:
+startup sped up 1.6x
+kbg:100<80
+damage:11<13
+increased active frames
+
+jab:
+jab1 startup sped up 2x
+new jab 3 animation with new launch angle:30<96
+
+dash attack:
+endlag sped up:1.15<1.25
+all damage made 12
+now spikes vs grounded opponents
+
+d smash:
+startup sped up 2x
+between hits sped up 2x
+endlag sped up 1.4x
+
+up b:
+buffed horizontal movement
+
+up air:
+hitlag:1.7<1
+hitbox sizes increased

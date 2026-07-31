@@ -1,0 +1,16 @@
+combo mode universal changes overview:
+
+shield changes:
+-shield health has been doubled
+(characters with "shield popper" type moves have had their shield damage adjusted to compensate)
+-shield degenerates much slower
+-shield pushback reduced greatly
+-powershield window increased to 15 frames (reflect window unchanged)
+
+grab changes:
+-grab now has 3% armor
+(any attack doing less than 3% cannot break this grab armor; even if the attack is a multhit adding up to more than 3%, the armor will not break. this allows you to shield grab multihits OoS much easier. hypothetically this also means you can parry multihits with grabs. Ideally, you cannot armor through much of anything else other than multihits and some multi-jabs)
+
+movement changes:
+-can now cancel "run turnaround" into attacks
+(while running, normally when trying to turn around, you're stuck in an animation where all you can do to cancel it is jump. now, you can cancel this animation into any attack. this not only allows you to do smash4/ult style pivot f tilts/smashes out of run, but it allows you to do any attack. this is really good for characters like kirby/fox with an up tilt that reaches behind them)

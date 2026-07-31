@@ -1,0 +1,321 @@
+~~~Roy~~~
+game ID: 0x3F
+announcer call: 0xF0292002
+cosmetic ID: 0x70
+sound bank: 0x14D
+Sawnd file: 14D
+JOJI offset: 340
+results file: Z50.brstm
+gfx name: ef_roy
+gfx bank: 40
+
+~~~Dr. Mario~~~
+game ID: 0x40
+announcer call: 0xF02A2002
+cosmetic ID: 0x71
+gfx name: ef_dr_mario
+gfx bank: 41
+
+~~~Ven~~~
+game ID: 0x41
+announcer call: 0xF02B2002
+cosmetic ID: 0x72
+sound bank: 0x14F
+Sawnd file: 14F
+JOJI offset: 342
+gfx name: ef_custom00
+gfx bank: 311
+
+~~~ Little Mac ~~~
+game ID: 0x42
+announcer call: 0xF02C2002
+cosmetic ID: 0x73
+sound bank: 0x150
+Sawnd file: 150
+JOJI offset: 343
+results file: Z51.brstm
+gfx name: ef_custom01
+gfx bank: 312
+
+~~~ Mewtwo ~~~
+game ID: 0x43
+announcer call: 0xF02D2002
+cosmetic ID: 0x74
+sound bank: 0x151
+Sawnd file: 151
+JOJI offset: 344
+results file: Z52.brstm
+gfx name: ef_mewtwo
+gfx bank: 39
+
+~~~ Greninja ~~~
+game ID: 0x44
+announcer call: 0xF02E2002
+cosmetic ID: 0x75
+sound bank: 0x152
+JOJI offset: 345
+gfx name: ef_custom02
+gfx bank: 313
+
+~~~ Shadow ~~~
+game ID: 0x45
+announcer call: 0xF02F2002
+cosmetic ID: 0x76
+sound bank: 0x153
+JOJI offset: 346
+gfx name: ef_custom03
+gfx bank: 314
+
+~~~ Lucina ~~~
+game ID: 0x46
+announcer call: 0xF0302002
+cosmetic ID: 0x77
+sound bank: 0x154 (was 399)
+JOJI offset: 347
+gfx name: ef_custom04
+gfx bank: 315
+trace IDs: [0x0B5, 0xB6, 0xB7, 0xB8, 0xB9]
+
+~~~ Knuckles ~~~
+game ID: 0x2F
+slot ID: 0x35
+announcer call: 0xF0312002
+cosmetic ID: 0x78
+sound bank: 0x155 (was 146)
+JOJI offset: 348
+gfx name: ef_custom05
+gfx bank: 316
+
+~~~ King K Rool ~~~
+game ID: 0x48
+announcer call: 0xF0322002
+cosmetic ID: 0x79
+sound bank: 0x156 (was 203)
+JOJI offset: 349
+gfx name: ef_custom06
+gfx bank: 317
+
+~~~ Geno ~~~
+game ID: 0x49
+announcer call: 0xF0332002
+cosmetic ID: 0x7A
+sound bank: 0x157 (was 18C)
+JOJI offset: 350
+gfx name: ef_custom07
+gfx bank: 318
+
+~~~ Sub Zero ~~~
+game ID: 0x4A (was 0x75)
+announcer call: 0xF0342002
+cosmetic ID: 0x7B
+sound bank: 0x158 (was 183)
+JOJI offset: 351
+gfx name: ef_custom08
+gfx bank: 319
+
+~~~ Dark Samus ~~~
+game ID: 0x4B
+announcer call: 0xF0352002
+cosmetic ID: 0x7C
+sound bank: 0x159 (was 205)
+JOJI offset: 352
+https://www.mediafire.com/?y9ijhr4b7832llq
+gfx name: ef_custom09
+gfx bank: 320
+
+~~~ Sephiroth ~~~
+game ID: 0x4C
+announcer call: 0xF0362002
+cosmetic ID: 0x7D
+sound bank: 0x160
+JOJI offset: 359
+gfx name: ef_custom0A
+gfx bank: 321
+
+~~~ Pac Man ~~~
+game ID: 0x4D
+announcer call: 0xF0372002
+cosmetic ID: 0x7E
+sound bank: 0x161
+JOJI offset: 360 (was 577)
+gfx name: ef_custom0B (was 64)
+gfx bank: 322
+
+~~~ Heihachi ~~~
+game ID: 0x4E
+announcer call: 0xF0382002
+cosmetic ID: 0x7F
+sound bank: 0x162 (was 466)
+JOJI offset: 361
+gfx name: ef_custom0C
+gfx bank: 323
+
+~~~ Cloud ~~~
+game ID: 0x4F
+announcer call: 0xF0392002
+cosmetic ID: 0x80
+sound bank: 0x163
+JOJI offset: 362 (was 346)
+gfx name: ef_custom0D
+gfx bank: 324
+
+~~~ Incineroar ~~~
+game ID: 0x50
+announcer call: 0xF03A2002
+cosmetic ID: 0x81
+sound bank: 0x164 (was 514)
+JOJI offset: 363 ????
+gfx name: ef_custom0E
+gfx bank: 325
+
+~~~ Isabelle ~~~
+game ID: 0x51
+announcer call: 0xF03B2002
+cosmetic ID: 0x82
+sound bank: 0x165 (was 562)
+JOJI offset: 364
+gfx name: ef_custom0F
+gfx bank: 326
+
+~~~ Kumatora ~~~
+game ID: 0x52
+announcer call: 0xF03C2002
+cosmetic ID: 0x83
+sound bank: 0x166 (was 499)
+JOJI offset: 365
+gfx name: ef_custom10
+gfx bank: 327
+
+~~~ Car ~~~
+game ID: 0x53
+announcer call: 0xF03D2002
+cosmetic ID: 0x84
+sound bank: 0x167
+JOJI offset: 366
+gfx name: ef_custom11
+gfx bank: 328
+
+~~~ Daisy ~~~
+game ID: 0x54
+announcer call: 0xF03E2002
+cosmetic ID: 0x85
+sound bank: 0x168 (was 493)
+JOJI offset: 367 (was 500)
+gfx name: ef_custom12
+gfx bank: 329
+
+~~~ Melee Fox ~~~
+game ID: 0x55
+announcer call: 0x1F5E
+cosmetic ID: 0x86
+sound bank: 0x169
+JOJI offset: 368
+gfx name: ef_custom13
+gfx bank: 330
+
+~~~ Melee Roy ~~~
+game ID: 0x56
+announcer call: 0x1F48
+cosmetic ID: 0x87
+sound bank: 0x16A
+Sawnd file: 16A
+JOJI offset: 369
+results file: Z50.brstm
+gfx name: ef_custom14
+gfx bank: 330 (0x14B)
+
+~~~ Kazuya ~~~
+game ID: 0x57
+announcer call: 0xF03F2002
+cosmetic ID: 0x88
+sound bank: 0x16B
+Sawnd file: 16B
+JOJI offset: 370
+gfx name: ef_custom15
+
+~~ Megaman ~~~
+game ID: 0x58
+announcer call: 0xF0402002
+cosmetic ID: 0x89
+sound bank: 0x16C
+Sawnd file: 16C
+JOJI offset: 371
+
+~~~ Goemon ~~~
+game ID: 0x59 (was 45)
+announcer call: 0xF0412002
+cosmetic ID: 0x8A
+sound bank: 0x16D
+Sawnd file: 16D
+JOJI offset: 372
+gfx name: ef_custom1C
+
+~~~ Pig Ganon ~~~
+game ID: 0x5A
+announcer call: 0
+cosmetic ID: 0x8B
+sound bank: vanilla kind of
+Sawnd file: 0x16E
+JOJI offset: 373
+results file: 
+gfx name: ef_custom16
+gfx bank: 332
+trace IDs: [0x169]
+
+~~~ King Dedede (Ultimate) ~~~
+game ID: 0x5B
+announcer call: vanilla
+cosmetic ID: 0x8C
+sound bank: 0x05
+Sawnd file: vanilla
+JOJI offset: 
+results file: 
+gfx name: ef_custom1A, ef_customB2
+gfx bank:
+trace IDs: [0x191, 0x781, 0x782, 0x783]
+
+~~~ Mage Ganon ~~~
+game ID: 0x5C
+announcer call: vanilla
+cosmetic ID: 0x8D
+sound bank: 0x16E
+Sawnd file: 0x16F
+JOJI offset: 374
+results file: 
+gfx name: ef_custom17
+gfx bank: 333
+trace IDs: [0x173, 0x174, 0x175]
+
+
+~~~ Falco Clone ~~~
+game ID: 0x5D
+gfx name: ef_custom18
+Sawnd file: 0x170
+cosmetic ID: 0x8E
+
+~~~ Wolf Clone ~~~
+game ID: 0x5E
+gfx name: ef_custom19
+Sawnd file: 0x171 (vanilla now)
+cosmetic ID: 0x8F
+
+~~~ Brawl Lucario ~~~
+game ID: 0x5F
+gfx name: ef_custom20
+Sawnd file: 0x171 (vanilla now)
+cosmetic ID: 0x90
+gfx bank: 157
+trace IDs: [0x1CD]
+
+~~~ P+ Lucario ~~~
+game ID: 0x60
+gfx name: ef_custom21
+Sawnd file: 0x172 (vanilla now)
+cosmetic ID: 0x91
+gfx bank: 158
+
+~~~ P+ Snake ~~~
+game ID: 0x61
+Sawnd file: 0x173 (vanilla now)
+gfx name: ef_custom22
+cosmetic ID: 0x92

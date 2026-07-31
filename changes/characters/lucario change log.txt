@@ -1,0 +1,318 @@
+lucario changes:
+
+aura modifier:1.3<1.2
+
+run speed:1.414<1.65
+gravity:.0625<.095
+terminal velocity:1.2<1.4
+double jump:.85<1
+jump:2.4<2.6
+short hop:1.54<1.79
+
+up throw:
+bkb:50<70
+kbg:70<80
+
+back throw:
+angle:40<60
+iasa:36<25
+
+down throw:
+bkb:100<60
+kbg:25<50
+endlag sped up 1.3x
+
+jab:
+jab 3 iasa:41<30
+
+dash attack:
+iasa:35<30
+sweetspot angle:110<100
+bkb:70<50
+kbg:50<40
+
+d tilt:
+kbg:130<30
+angle:60<80
+bkb:28<75
+hitbox sizes:4<5.5
+
+up tilt:
+kbg:130<55
+bkb:38<65
+
+f smash:
+sped up 1.2x
+iasa:43<54 + slowed .9x speed to compensate
+
+up air:
+bkb:15<35
+kbg:110<45
+
+fair:
+bkb:28<35
+kbg:100<65
+
+nair:
+iasa:68<49
+
+neutral special:
+release startup sped up 1.5x
+endlag slowed down .7x + iasa 36<40
+max damage multiplier:.75<.7
+_____________________________________________________________________________
+rev 2 changes:
+
+dash attack:
+kbg:40<60
+
+up tilt:
+kbg:55<70
+
+up air:
+kbg:45<70
+_______________________________________________________________________________
+rev 3 changes:
+
+up b:
+fixed the move so you can now properly ride the wall without lucario bonking his cute little head like an asshole.
+
+dash attack:
+Lucario now has ultimate lucario dash attack animation, giving it more range.
+initial hit angle:100<75
+iasa:30<34
+
+up air:
+also has ultimate animation just because it looks cool.
+
+down air:
+new animation using his trophy item throw animation, new properties.
+the move no longer stalls lucario and is instead a more typical spike.
+bkb:30
+kbg:80
+damage:15 (18 with multiplier)
+
+back air:
+damage:12<15 (with multiplier comes out to 18)
+kbg:100<110
+
+back throw:
+kbg:60<45
+
+down throw:
+kbg:50<45
+
+neutral special:
+endlag slowned down .7x < .9x
+iasa:40<38
+________________________________________________________________________________
+rev 4 changes:
+
+bair:
+damage:15<13 (with multiplier it is now actually 15)
+kbg:110<105
+_____________________________________________________________________________________
+rev 5 changes:
+
+f smash:
+sweet + sourspot damage made equal: 16/14 < 15
+endlag slowed more:.9x < .8x
+reduced range, z axis offset: 19 < 16
+hitbox duration: 8 < 5
+
+up smash:
+sourspot hitbox duration: 18 < 5
+
+fair:
+hitbox duration: 13 < 5
+angle: 50 < 45
+
+bair:
+sourspot duration: 11 < 4
+
+d smash:
+startup sped up 1.5x
+endlag slowed down .8x
+
+d tilt:
+active frames: 7 < 4
+angle:80<71
+________________________________________________________________________________________
+rev 6 changes:
+
+jab:
+jab 1+2 angles all made 365
+jab 2 can cancel into specials
+
+side special:
+kbg:83<50
+angle:53<65
+________________________________________________________________________________________
+rev 7 changes:
+
+nair, bair, f tilt, d tilt, and fair all have ult animations now
+has PM run animation
+
+jab:
+sdi multiplier:1<.5
+jab 1+2 endlag slowed .8
+jab 3 input window:30<50
+
+up smash:
+now has PM animation and new values.
+
+dair:
+startup sped up: 1.5x<1.7x, 2.5x<2.7x
+
+bair:
+sweetspot bkb:12<20
+damage:13<14
+sped up endlag 1.3x
+
+nair:
+startup slowed .75x
+rest of move sped up 1.4x
+sweetspot damage:11<13
+kbg:100<105
+sweetspot active frames:2<4
+
+f tilt:
+startup slowed .7x, rest sped up 1.2x
+can cancel first hit into specials
+first hit angle:80<85
+first hit hitlag modifier:1<2.2
+sdi multiplier:1<.4
+
+side b:
+sped up 1.35x
+can cancel the throw into dodges
+
+f smash:
+startup sped up:1.2x<2.2x
+endlag slowed:.8X<.7x
+
+roll:
+forward roll startup sped up 1.2x + cancelable frame 16
+
+neutral b:
+startup sped up:1.5x<1.85x
+_____________________________________________________________________________________
+rev 8 changes:
+
+run speed:1.65<1.8
+
+grab:
+active frames:2<4
+
+jab:
+startup sped up 1.3x
+
+dash attack:
+angle:75<70
+late hit angle:120<70
+
+up smash:
+removed sourspot
+
+f tilt:
+startup sped up 1.2x
+the move can now only be canceled into specials if it connects
+
+d tilt:
+iasa:25<21
+angle:71<77
+
+f smash:
+startup slowed:2x<1.6x
+
+side b:
+increased size and duration of grab hitboxes
+the move is no longer roll canceled, now pressing a or using the c stick will cancel the grab into an f smash if done before the throw
+can now grab aerial opponents with the move, using it in the air will make the angle 361 and have higher knockback
+grounded side b damage reduced
+grounded side b now has a low knockback hitbox that appears right before the grab, making it possible to grab people off the ground from a missed tech 
+
+up tilt:
+iasa:33<27
+
+up b:
+startup sped up 1.2x
+can now wall jump out of up b
+now has a hitbox
+
+up throw:
+bkb:70<110
+kbg:80<20
+______________________________________________________________________________________
+rev 9:
+
+f smash:
+kbg:93<80
+
+f tilt:
+startup sped up:1.2x<1.4x
+__________________________________________________________________________________
+rev 10:
+
+f tilt:
+startup sped up 1.6x
+2nd hit angle:361<55
+
+bair:
+damage:14<15
+sped up whole move 1.3x
+first active frame:15<13
+reduced hitboxc size on sweetspot
+
+fair:
+damage:5<7
+faf:7<6
+reduced active frames by 2
+
+side b:
+vs grounded opponents:
+removed hitbox
+damage:6<8
+angle:70<55
+bkb:40<70
+kbg:83<50
+vs aerial opponents:
+reworked to now function like P+
+startup sped up:1.35<1.6
+buffed hitbox sizes for grab
+
+down b:
+reworked, now a dash
+
+f smash:
+startup sped up:1.4<1.6x
+damage:15<17
+
+jab:
+can cancel jab 2 into attacks
+first hit bkb:15<10
+first hit angle:365<55
+jab 2 kbg:65<5
+
+dash attack:
+damage:8/6<10/8
+
+d tilt:
+damage:7<8
+
+up tilt:
+damage:7<8
+
+up smash:
+reworked endlag animation :)
+
+up air:
+hitbox sizes:7/6<5
+damage:9<7
+animation adjusted
+
+neutral special:
+sped up startup more
+
+down throw:
+angle:75<60

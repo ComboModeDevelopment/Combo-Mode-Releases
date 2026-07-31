@@ -1,0 +1,46 @@
+knuckles changes:
+____________________________________________________________________________________________
+rev 10:
+
+dash:
+1.5<1.59
+
+weight:
+97<102
+
+up tilt:
+adjusted animation to cover more area around knuckles
+damage:9/7<11/9
+
+d tilt:
+angle:60<100
+angle vs grounded opponents:260
+hitbox sizes increased
+no longer halts momentum
+
+up b:
+snaps edge earlier
+
+neutral b:
+aerial startup sped up
+cancels on landing
+reworked multihit
+
+jab:
+jab 1 angles all made 270
+jab 3 iasa:33<27
+jab 3 angle:50<285
+jab 3 bkb:50<75
+
+up smash:
+endlag sped up 1.4x
+reworked hitboxes
+
+dash attack:
+given more range
+
+f smash:
+hitbox size buffed
+first active frame:17<12
+startup sped up:1.25<1.35
+now 2 hit link to make the move connect better

@@ -1,0 +1,10 @@
+daisy changes:
+
+jab:
+endlag sped up 1.8x
+
+dash attack:
+angle:65<75
+
+f tilt:
+new f tilt with new properties 

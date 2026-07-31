@@ -1,0 +1,77 @@
+geno changes:
+___________________________________________________________________________________________
+rev 10:
+
+all specials buffed speed
+
+dash:
+1.25<1.5
+
+weight:
+80<90
+
+neutral b:
+does more damage, hits link much better
+
+up tilt:
+damage:8<10
+bigger hitboxes
+
+up air:
+bkb:60<40
+kbg:50<110
+removed slowdown on move
+
+up throw:
+fixed bug where this move didn't put opponent in hitstun
+
+fair:
+more range
+
+dair:
+bigger hitboxes
+
+f tilt:
+down angle sped up + new angle:365
+if a is held/pressed during the down angle will combo into f smash
+side angle endlag sped up 1.3x
+
+d smash:
+buffed hitbox sizes
+angle:120<30
+kbg:90<100
+
+up b:
+now a kill move
+increased distance
+
+jab:
+jab 2 can cancel into any attack
+___________________________________________________________________________________________
+rev 11:
+
+jab:
+animations adjusted + added hitboxes to give the move much more range on every hit
+
+dair:
+adjusted animation to prevent blindspot close to geno
+
+up tilt:
+given new animation for better hitboxes and range
+
+d tilt:
+adjusted animation for more range
+damage:7<10
+
+dash attack:
+increased hitbox sizes
+
+fair:
+increased range
+damage:15<18
+
+bair:
+angle:70<40
+
+nair:
+angle:55<80

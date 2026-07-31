@@ -1,0 +1,11 @@
+wolf ult changes:
+
+bair:
+startup slowed .5x
+improved range
+
+fair:
+angle:60<70
+
+d throw:
+sped up 1.4x

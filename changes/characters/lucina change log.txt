@@ -1,0 +1,54 @@
+lucina changes:
+______________________________________________________________________________
+rev 9:
+
+nair:
+no longer a multihit.
+
+f tilt:
+bkb:30<50
+kbg:70<60
+_________________________________________________________________________________
+rev 9.5:
+
+nair:
+multihit restored with no final hit, exclusivley a dragdown
+_________________________________________________________________________
+rev 10:
+
+new up tilt, jab, and bair animation
+
+dash:
+1.5<1.55
+
+run:
+1.8<1.73
+
+weight:
+87<98
+
+nair:
+reworked multihit to last longer through the animation
+damage:2<1
+
+fair:
+first active frame:3<4
+
+bair:
+damage:14<16
+
+f smash:
+kbg:65<77
+
+f tilt:
+much more range
+now has a multihit
+
+neutral b:
+damage:12<17
+
+down b:
+travels further 
+
+up smash:
+removed side hits, buffed sword hit

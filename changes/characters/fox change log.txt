@@ -1,0 +1,257 @@
+fox changes:
+
+fair:
+removed momentum shifting
+
+up air:
+kbg:100<120
+
+dair:
+hitlag multiplier:1<.85
+bkb:33<15
+damage:3<2
+(these changes remove dair psuedo infinite)
+
+d throw:
+angle:60<75
+kbg:100<60
+
+down special:
+can now jump cancel when grounded
+angle (grounded opponents):10<80
+kbg(grounded opponents):30<70
+aerial opponents are still launched at 10 degrees
+_________________________________________________________________________
+rev 2 changes:
+
+down b:
+shine is no longer invincible on startup.
+__________________________________________________________________________
+rev 3 changes:
+
+dair:
+first active frame:4<5
+startup slowed .8x
+bkb:15<25
+
+down b:
+startup slowed .6x
+shine is reworked. it is no longer jump cancelable but is now cancelable by ground actions such as crouching, dashing, walking, etc. it cannot be canceled in the air.
+angle:80<10
+skb:30
+bkb:30
+damage:5<3
+
+up throw:
+endlag sped up 1.5x
+_____________________________________________________________________________________
+rev 4 changes:
+
+up smash:
+kbg:96<115
+______________________________________________________________________________________
+rev 5 changes:
+
+short hop increased:2.485<2.5
+
+jab:
+removed rapid jab
+jab 2 can cancel into grab and specials
+
+fair:
+has a new 2 hit fair.
+
+bair:
+damage:15<17
+kbg:85<90
+
+f smash:
+kbg:96<112
+damage:15<16
+bkb:10<15
+
+up tilt:
+strong hit bkb:22<35
+weak hit bkb:18<25
+
+nair:
+angle:361<50
+
+down b:
+damage:3<4
+bkb vs grounded opponents:30<35
+________________________________________________________________________________________
+rev 6 changes:
+
+down b:
+hitbox size:6<7.5
+_______________________________________________________________________________________
+rev 7 changes:
+
+down b:
+angle:10<20
+________________________________________________________________________________
+rev 8 changes:
+
+increased fall speed and gravity
+
+up air:
+first hit sdi multiplier:1<.2
+between hits sped up 1.5x
+2nd hit damage:11<13
+kbg:120<125
+
+up smash:
+damage:17<18
+
+jab:
+jab 3 is now low angled f tilt
+
+down b:
+hitbox size:6<10
+startup:3<5
+
+f tilt:
+side damage:6<8
+down angle:361<60
+side angle:361<20
+______________________________________________________________________________________
+rev 9:
+
+up smash:
+kbg:115<103
+bkb:30<27
+
+down b:
+increased endlag + startup
+reduced active frames on hitbox
+_____________________________________________________________________________________
+rev 9.5:
+
+run speed:2.08<2.2
+
+dash attack:
+damage:7/5<9/8
+
+up tilt:
+damage:8<9
+bkb:35/25<40
+kbg:110<90
+
+d tilt:
+iasa:28<22
+id0 angle:45<70
+hitbox sizes increased:3<4
+
+fair:
+first hit angle:75<365
+added skb to first hit:10
+first hit bkb:10<35
+between hits sped up 1.4x
+2nd hit active frames:2<4
+endlag slowed .85
+
+up air:
+first hit angle:92<365
+
+dair:
+multihit angle:285<365
+
+neutral b:
+lasers last much longer
+laser damage takes longer to fall off
+________________________________________________________________________________
+rev 10:
+
+fox has been scaled up slightly, its been bugging me how small he is
+
+buffed ground to air momentum
+
+run:
+2.2<2.35
+
+weight:
+80<94
+
+up smash:
+bkb:27<30
+improved hitbox placement 
+
+bair:
+bkb:20<30
+kbg:90<93
+damage:17<16
+sped up endlag 1.5x
+startup sped up 2x
+
+down throw:
+kbg:100<60
+bkb:85<80
+
+down b:
+sdi multiplier:1<.6
+sped up the whole move slightly, hitbox comes out frame 3
+air angle:20<0
+air skb removed
+damage:4<5
+
+fair:
+reverted back to vanilla brawl animation with new multihit properties
+now a kill move on the final hit
+
+nair:
+angle:50<55
+damage:9/6<10/8
+hitbox sizes increased
+sped up endlag 1.5/1.7
+
+up throw:
+now halts momentum
+
+d tilt:
+given more range
+
+neutral b:
+startup sped up 1.8x
+laser damage:3<4
+
+dash attack:
+bkb:35<60
+kbg:90<60
+damage:9/8<11/9
+
+dair:
+added another hitbox to cover more of fox's body
+
+d smash:
+made both sides the same
+damage:14/12<16
+bkb:50<40
+
+up air:
+between hits sped up 1.5<2.5x
+
+back throw:
+sped up 1.6x
+angle:45<65
+
+f tilt:
+bkb:10<60
+kbg:100<55
+
+up special:
+startup sped up 1.7x
+__________________________________________________________________________________________
+rev 11:
+
+down b:
+removed set knockback
+bkb:30<60
+kbg:60<30
+angle:20<0
+
+fair:
+multihit bkb:35<25
+
+f tilt/up tilt:
+can now slide during these moves

@@ -1,0 +1,13 @@
+Pac-man changes:
+_______________________________________________________________________________
+rev 10:
+
+fixed invincibility on many rolls/getup options, as well as hitboxes
+
+grab:
+startup slowed, during hitboxes sped up
+________________________________________________________________________________
+rev 11:
+
+dash attack:
+endlag slowed:.76<.45

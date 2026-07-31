@@ -1,0 +1,169 @@
+falco changes:
+
+shorthop reduced slightly + aerial laser startup slowed to remove double laser
+
+fsmash:
+damage:15<17
+hitlag:.5<1.5
+kbg:88<92
+
+fair:
+sped up 1.2x
+bkb:0<25
+
+bair:
+sweetspot damage:13<15
+
+upair:
+removed sourspot
+angles:68/80<75
+__________________________________________________________________
+rev 2 changes:
+
+fair:
+reworked so only the multihit is sped up, now by 1.35x
+reworked multihit to only be active 5-26 and final hit lingers 27-35
+multihit damage:2<3
+final hit damage:3<4
+______________________________________________________________________________
+rev 3 changes:
+
+up smash/d smash:
+they're both now ultimate animations just for the sake of making them unique. mostly aesthetic as i did everything i could to make the frame data and range match up.
+
+Down b:
+reflector can be canceled into attacks and jumps in the air. it cannot be canceled on the ground.
+endlag sped up 1.5x
+kbg:30<50
+bkb:35<60
+angle:361<120
+hitbox size:3<5
+
+dair:
+late hit angle:361<80
+_________________________________________________________________________________
+rev 6 changes:
+
+up smash:
+endlag sped up 1.35x
+
+d smash:
+kbg:70<90
+
+bair:
+sweetspot bkb:0<30
+sweetspot kbg:103<115
+
+dair:
+sourspot angle:80<290
+______________________________________________________________________________________
+rev 7 changes:
+
+bair:
+bkb:30<15
+kbg:115<110
+
+dash attack:
+late hit angle:40<55
+
+up tilt:
+between hits sped up 1.4x
+bkb of first hit:0<25
+
+d tilt:
+iasa:28<25
+kbg:90<125
+
+nair:
+bkb:0<25
+final hit angle:361<55
+multihits sped up 1.25x
+endlag slowed .85x
+_____________________________________________________________________________________________
+rev 8 changes:
+
+increased gravity+fall speed to be closer to fox
+
+run speed:1.43<1.56
+
+jab:
+removed rapid jab and instead goes into f tilt for jab 3
+can cancel jab 2 into grab
+
+f tilt:
+faf:6<5
+active frames:3<5
+bkb:0<30
+kbg:100<80
+
+nair:
+now has fox nair
+
+uptilt:
+now has melee style PM up tilt
+
+neutral b:
+removed slowdown on aerial startup
+
+f smash:
+startup sped up 1.2x
+
+d throw:
+angle:50<67
+bkb:45<60
+kbg:130<100
+
+fair:
+multihits more frequent, damage:3<1
+final hit damage:3<5
+
+up air:
+angle:75<80
+faf:10<9
+________________________________________________________________________________________
+rev 10:
+
+run:
+1.56<1.67
+
+weight:
+82<100
+
+new ult fair,d tilt, dair animations
+
+fair:
+reworked multihit to last longer, now doesn't fully complete in a short hop
+
+dair:
+faf:5<10
+
+dash attack:
+buffed hitbox size
+damage:9/6 < 11/9
+angle:65/55 < 70
+endlag sped up 1.2x
+
+up smash:
+reduced range
+
+up tilt:
+returned to brawl animation, new values
+
+d tilt:
+buffed hitbox sizes
+
+down special:
+endlag sped up:1.5<1.75
+faf:4<3
+buffed hitbox size
+
+d smash:
+hitbox sizes on sweetspot buffed
+
+f smash:
+startup sped up:1.2<1.45x
+buffed hitbox sizes
+sourspot removed
+
+up b:
+sped up 1.5x

@@ -1,0 +1,211 @@
+samus changes:
+
+up b/down b vertical height buffed
+shorthop height reduced
+
+jab:
+jab 1 angle:361<80
+bkb:5<30
+added set knockback (10)
+jab2 sped up 1.3x + hitbox comes out earlier
+
+d tilt:
+iasa:40<30
+
+f smash:
+damage:13<16
+bkb:20<40
+(angles adjusted accordingly, up angle +1 damage, down angle -1)
+
+up smash:
+move sped up 1.3x
+
+d smash:
+iasa:47<39
+
+nair:
+hitbox size on sourspot:2<5
+iasa:45<36
+
+up air:
+initial hitbox id 0 set kb increased
+sdi multiplier on multihits 1<.4
+multihits lowered 4<3
+no downtime between hits
+final hit damage compensated:4<6
+multihit id 0 size:6.54<4
+multihits angle on hitbox id 1+2:80<280
+final hit angle:361<70
+
+bair:
+sweetspot damage: 14<16
+active frames: 2<4
+
+fair:
+move sped up 1.4x
+downtime between hitboxes reduced
+added set knockback on initial hit (5)
+initial hit bkb:20<5
+initial hit angle:85<270 (excluding hitbox id 0)
+multihit angles:80<365
+sdi multiplier on multihits 1<.4
+
+d throw:
+angle:80<95
+bkb:80<50
+kbg:50<80
+
+upthrow:
+bkb:80<60
+kbg:70<60
+
+neutral b:
+charge time reduced
+
+side b:
+sped up 1.3x
+______________________________________________________________________________________
+rev 7 changes:
+
+up smash:
+has P+ ice upsmash animation and new properties
+
+dash attack:
+endlag sped up 1.2x
+
+run speed:
+1.445<1.73
+
+buffed double jump and air mobility
+
+up b height buffed
+
+rolls sped up 1.3x
+
+up tilt:
+sped up 1.3x
+
+d tilt:
+restored iasa to 40 but sped up endlag 1.5
+kbg:60<45
+
+f tilt:
+angle:361<62
+end lag sped up 1.3x
+damage:7/8<11
+
+d smash:
+intial hit angle:70<25
+intial hit bkb:90<60
+intial hit kbg:50<70
+
+nair:
+sweetspot damage:9<13
+sweetspot kbg:80<100
+
+fair:
+endlag sped up:.7x<.9x
+
+neutral b:
+duration:70<150
+uncharged shot speed:1.5<.7
+charged speed:2.65<3.4
+hitlag multiplier on all but uncharged:1<2.5
+uncharged hitlag multiplier:1<1.8
+
+side b:
+sped up:1.3x<1.5x
+homing missle duration:110<170
+buffed homing ability
+homing missile hitlag multiplier:1<1.6
+homing missile damage:5<7
+smash missile duration:72<100
+smash missile acceleration frame:10<30
+smash missile speed and acceleration buffed
+smash missile damage:10<12
+smash missile hitlag multplier:1<1.5
+smash missile angle:55<30
+smash missile kbg:65<80
+_______________________________________________________________________________________
+rev 8 changes:
+
+up smash:
+endlag sped up more
+kbg:85<110
+______________________________________________________________________________________
+rev 9 changes:
+
+jab:
+jab 1 damage:3<5
+
+up tilt:
+startup sped up:1.3x<1.6x
+hitboxes slowed .85x
+
+up smash:
+2nd hit kbg:110<125
+
+bair:
+all hits made sweetspot
+
+up air:
+multihit angle:270<365
+iasa:40<48
+
+dair:
+iasa:49<38
+__________________________________________________________________________________________
+rev 10:
+
+weight:
+108<110
+
+dair:
+startup sped up 2x
++3 active frames
+
+up tilt:
+new animation and properties
+
+up air:
+removed speed up during duration of move, still on endlag
+multihit has 1 extra hit + lasts longer
+
+nair:
+buffed hitbox sizes
+late hit damage:6<9
+
+f smash:
+given more range and now all angled variants share hitbox values
+now a 2 hit multihit
+
+fair:
+buffed hitbox sizes
+final hit angle:361<55
+sped up:1.5<1.4x
+removed slowdown on endlag
+
+d tilt:
+angle:80<96
+
+jab:
+new animation from P+
+more range and size
+
+f tilt:
+P+ animation, more range
+bkb:10<35
+kbg:100<80
+
+charge shot:
+full charge shot stronger + buffed hitbox size
+charges faster
+can now charge in air
+
+down b:
+reworked explosion and samus can now do aerials out of down b
+_____________________________________________________________________________________
+rev 11:
+
+jab:
+jab1 hitbox lowered

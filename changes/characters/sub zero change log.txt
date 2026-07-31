@@ -1,0 +1,28 @@
+sub zero changes:
+
+up b:
+reduced invincibility on startup
+slowed
+takes longer to act out of
+
+side b:
+increased endlag on hit: iasa 5>10
+increased hitlag:1>2
+reduced sdi multiplier:1>.5
+can no longer jump cancel on hit
+
+f tilt:
+faf:8<9
+
+jab:
+slowed endlag of jab1 .7x
+
+bair:
+faf:8<9
+
+up air:
+angle:80<65
+damage:12<11
+
+up tilt:
+damage:10<9

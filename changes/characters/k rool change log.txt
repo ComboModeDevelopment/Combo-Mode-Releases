@@ -1,0 +1,64 @@
+K rool changes:
+_________________________________________________________________________________________________
+rev 9.5:
+
+up tilt:
+sweetspot damage:13<10
+speedup on endlag:1.2<1.1
+
+nair:
+sweetspot damage:12<10
+
+fair:
+sweetspot damage:16/14<15/13
+
+bair:
+damage:19/15<16/14
+
+side b:
+added .85 slowdown to startup
+
+up b:
+reworked hitboxes
+_______________________________________________________________________________________
+rev 10:
+
+removed his boxing gloves from his attacks (purely aesthetic)
+
+dash:
+1.7<1.65
+
+run:
+1.65<1.6
+
+up tilt:
+adjusted animation to give move more range and cover more area
+bkb:40<70
+kbg:75<40
+damage:10<11
+late him damage:7/9<10
+
+bair:
+damage:16<18
+
+up smash:
+removed useless hitboxes
+
+d tilt:
+reworked to be a 2 hit multihit
+more range
+iasa:33<40
+
+neutral b:
+sped up startup and endlag
+
+side b:
+sped up whole move
+
+fair:
+damage:15<17
+___________________________________________________________________________________________
+rev 11:
+
+Up b:
+can no longer cancel with airdogde

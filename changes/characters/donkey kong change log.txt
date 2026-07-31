@@ -1,0 +1,129 @@
+Donkey kong changes:
+
+cargo throw:
+up throw kbg:30<100
+up throw bkb:90<60
+f throw sped up 1.3x
+b throw kbg:50<30
+b throw angle:55<60
+____________________________________________________________________________
+rev 3 changes:
+
+dash attack:
+has his P+ rolling dash attack.
+unlike P+, no armor properties and cannot roll offstage with it.
+
+cargo throw:
+up throw kbg:100<50
+____________________________________________________________________________
+rev 7 changes:
+
+side b:
+hitbox id 2 now matches 1&0
+added iasa:51
+
+up b:
+finally buffed the vertical height
+__________________________________________________________________________
+rev 8 changes:
+
+down b:
+startup sped up 1.5x
+angles all made 90
+endlag sped up 1.9x
+bkb:84<100
+
+nair:
+hitbox sizes all +2
+angle:361<55
+endlag sped up 1.2x
+
+fair:
+sped up 1.1x
+damage:16<19
+bkb:20<35
+kbg:100<105
+
+neutral b:
+bkb:10<50
+
+d tilt:
+trip rate:.4<1
+
+up tilt:
+iasa:39<31
+_______________________________________________________________________________
+rev 9:
+
+side b:
+aerial bkb:30<50
+aerial kbg:40<70
+__________________________________________________________________________________
+rev 10:
+
+run:
+1.622<1.65
+
+weight:
+116<118
+
+neutral b:
+no longer puts DK into free fall
+now charges faster
+punch comes out faster
+bkb:50<40
+
+bair:
+angle:361<55
+
+dair:
+sped up 1.2x
+
+down b:
+buffed hitbox duration
+endlag sped up:1.9<2.1x
+angle:90<270
+
+jab:
+jab 2 sped up 1.3x
+
+dash attack:
+sped up 1.2x
+
+up tilt:
+sped up endlag 1.2x
+bkb:40<55
+kbg:105<75
+
+fair:
+faf:25<23
+buffed hitbox sizes
+spike damage:17<21
+sped up:1.1<1.2x
+early hit kbg:105<88
+
+d throw:
+sped up 1.3x
+
+up air:
+bkb:32<55
+kbg:90<55
+
+up smash:
+endlag sped up 1.25x
+
+d tilt:
+damage:8<10
+arm made invulnerable
+
+f tilt:
+all damage on all angles made 12
+sped up startup 1.25x, endlag 1.45x
+______________________________________________________________________________
+rev 11:
+
+down b:
+now has P+ aerial version
+
+neutral b:
+can now cancel charge with jump

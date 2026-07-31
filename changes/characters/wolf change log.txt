@@ -1,0 +1,189 @@
+wolf changes:
+
+dash attack:
+angles:50/361<80
+
+nair:
+fixed the hitboxes with no knockback
+
+side b:
+sweetspot angle:270<361
+kbg:80<100
+_______________________________________________________________________
+rev 3 changes:
+
+down b:
+removed invincibility on all 10 frames of startup
+hitboxes first active frame:8<5
+shine is now attack cancelable
+unlike fox and falco, wolf can cancel his ground and aerial reflector.
+___________________________________________________________________________
+rev 5 changes:
+
+wolf now has his ult idle animation. this is done to make him a larger target and be easier to hit.
+____________________________________________________________________________
+rev 6 changes:
+
+nair:
+now only a multihit.
+damage:1<3
+angle:361<365
+
+up throw:
+kbg:110<85
+________________________________________________________________________________
+rev 7 changes:
+
+now has ult run animation and f smash.
+
+f smash:
+new values:
+damage:17
+angle:361
+bkb:50
+kbg:75
+
+d smash:
+sweetspot damage:14<16
+sourspot damage:12<14
+2nd hit unchanged
+
+dash attack:
+added momentum to startup
+
+nair:
+startup slowed .5x
+rest sped up 1.4x
+
+fair:
+endlag sped up 1.55
+
+down b:
+can now only cancel into attacks after hitbox comes out
+______________________________________________________________________________________
+rev 8 changes:
+
+run speed:1.4<1.65
+
+dair:
+sped up endlag 1.3 + added iasa 50
+hitbox id 1 moved higher
+hitbox duration:2<4
+
+up air:
+faf:7<6
+
+dash attack:
+faf:11<8
+
+up tilt:
+faf:7<6
+sped up endlag 1.2x
+bkb:30<40
+kbg:120<90
+damage:all made 10
+
+d tilt:
+damage:6<8
+angle:361<0
+iasa:28<25
+
+bair:
+sweetspot damage:13<15
+kbg:96<105
+
+d throw:
+iasa:51<40
+kbg:86<80
+bkb:30<50
+
+up smash:
+sped up between hits 1.5x
+added skb to the first hit:10
+
+grab:
+buffed range
+
+f smash:
+damage:17<18
+kbg:75<90
+bkb:40<35
+
+side b:
+damage:15<19
+______________________________________________________________________________________
+rev 9:
+
+d throw:
+bkb:30<40
+kbg:80<90
+
+down b:
+hitlag:1<2
+damage:3<8
+
+neutral b:
+sped up 1.2x
+laser hitlag:.2<.6
+
+nair:
+hitbox sizes:4<6
+bkb:25<30
+rehit rate:6<5
+_________________________________________________________________________________________
+rev 9.5:
+
+run speed:1.65<1.75
+
+buffed ground to air momentum
+
+new up tilt based off P+ upsmash animation
+
+up air:
+active frames:5<7
+
+up throw:
+kbg:110<70
+___________________________________________________________________________________________
+rev 10:
+
+up tilt:
+improved the animation slightly :)
+slowed during startup + hitboxes 
+sped up endlag
+
+d smash:
+back hit has same values as front hit
+buffed hitbox sizes to help it not miss vs opponents after shine
+
+d tilt:
+given set kb
+iasa:25<20
+
+dash attack:
+more range
+active frames:5<8
+
+up smash:
+buffed first hit hitbox reach and size
+adjusted multihit to link better
+
+f tilt:
+first hit reduced hitlag, added skb, changed angle
+
+side b:
+now no longer goes into special fall if this move connects with sweetspot 
+
+fair:
+improved animation and active frames
+
+neutral b:
+can now landing cancel
+
+dair:
+sped up endlag
+damage:13/15<16
+bkb:6<15
+
+f smash:
+animation redone + made 2 hit

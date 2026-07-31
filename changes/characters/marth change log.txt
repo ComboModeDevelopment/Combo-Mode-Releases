@@ -1,0 +1,186 @@
+marth changes:
+
+dash attack:
+tipper angle:45<100
+tipper bkb:80<60
+iasa:50<40
+
+d tilt:
+no longer halts momentum out of a dash
+
+f smash:
+tipper hitbox priority adjusted, should be more consistent
+
+fair:
+tipper now takes priority
+mid hitbox size increased
+tipper angle:361<65
+non tipper damage:10<9
+tipper damage:13<11
+kbg:80<70
+iasa:34<30
+
+dair:
+tipper hitbox now takes priority
+
+up air:
+damage:13<12
+kbg:80<60
+
+f throw:
+angle:50<55
+
+upthrow:
+bkb:80<60
+kbk:120<100
+
+dthrow:
+angle:135<120
+
+side b:
+gives better aerial lift
+___________________________________________________________________________________
+rev 5 changes:
+
+marth now uses a "PM marth in brawl" mod as a base, and has been modified further to fit more into combo mode.
+he keeps his brawl animations, which is mostly noticable for neutral/side b.
+_______________________________________________________________________________________
+rev 7 changes:
+
+side b:
+aerial dancing blade hitbox frame:5<4
+side b 1 bkb:55<25
+side b 1 added skb:10
+
+d tilt:
+angle:30<50
+iasa:22<18
+bkb:all made 60
+kbg:40<35
+
+up smash:
+iasa:42<40
+end lag sped up 1.35x
+
+f smash:
+sourspot kbg:70<80
+
+up tilt:
+kbg: all made 125
+first active frame:6<5
+
+fair:
+sourspot angle:361<55
+
+up air:
+sweetspot kbg:70<55
+sourspot kbg:70<60
+
+up throw:
+kbg:90<75
+bkb:60<55
+end lag sped up 1.3x
+
+neutral b:
+uncharged damage:7<12
+active frames:12<5
+__________________________________________________________________________________________
+rev 8 changes:
+
+neutral b:
+base damage:12<15
+now has melee neutral b animation while in the air, startup+move sped up 1.2x endlag slowed .6x
+
+f smash:
+sped up endlag 1.2x
+given his PM animation, which may look the same but actually makes a major difference in tipper hitbox placement, making things like tipper f smashing through plats for more consistent
+
+d smash:
+sped up endlag 1.3x
+
+nair:
+first hit now has 10 skb
+first hit bkb:30<41
+between multihits sped up 1.4x
+
+bair:
+kbg:70<95
+_______________________________________________________________________________________
+rev 9:
+
+neutral b:
+fixed slowdown when going from air to ground
+
+up b:
+fixed up be being able to snap edge instantly
+____________________________________________________________________________________________
+rev 9.5:
+
+f smash:
+changed tipper and hilt priority so it should now be far easier to hit
+tipper damage:20<22
+removed speedup on endlag
+
+neutral b:
+now landing cancels like an aerial
+has endlag slowed down in air
+
+up b:
+reverted ledge snap change
+_________________________________________________________________________________________
+rev 10:
+
+given his P+ animations + further touched up animations and hitboxes so this should fix a lot of range issues 
+
+dash:
+1.5<1.62
+
+run:
+1.8<1.92
+
+weight:
+87<100
+
+up throw:
+bkb:55<65
+kbg:75<80
+
+d throw:
+sped up 1.35x
+
+b throw:
+sped up 1.45x
+
+f smash:
+adjusted animation to give it better active frames + swing arc
+reduced tipper size to make it slightly harder to hit
+
+nair:
+sped up between hits and improved hitboxes
+
+bair:
+endlag sped up 1.5x
+
+neutral b:
+damage:12<15
+kbg:100<85
+
+up b:
+sweetspot buffed size
+damage:12<16
+
+up tilt:
+tipper hitbox size buffed
+
+f tilt:
+endlag sped up 1.3x
+
+dair:
+tipper damage:13<16
+
+jab:
+jab combo is now faster
+jab 2 angle:361<15
+
+dash attack:
+endlag sped up 1.3x

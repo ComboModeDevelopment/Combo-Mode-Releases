@@ -1,0 +1,58 @@
+sephiroth changes:
+______________________________________________________________________________________________
+rev 9.5:
+
+neutral b:
+all variants damage toned down
+____________________________________________________________________________________________
+rev 10:
+
+fixed a bunch of invincibility and other random issues on getup options
+
+buffed ground to air momentum
+
+dash:
+1.5<1.46
+
+run:
+1.67<1.48
+
+weight:
+79<96
+
+up air:
+sweetspot damage:11<10
+early hit angle:80<70
+
+neutral special:
+slightly slowed
+
+down special:
+startup slowed .4x
+
+up tilt:
+animation adjusted to give it a much better swing arc, given more endlag to compensate
+sped up startup
+angle:91<110
+
+nair:
+active frames:4<8
+
+dair:
+endlag sped up 1.3x
+
+d tilt:
+can be jump canceled sooner
+
+fair:
+angle:55<30
+
+jab:
+now only 1 single strong hit
+
+up b:
+final hit now a vertical kill move
+startup sped up
+
+dash attack:
+now a 2 hit multihit

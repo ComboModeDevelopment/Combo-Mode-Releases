@@ -1,0 +1,32 @@
+combo mode+ changelog overview:
+
+when reading all character stat changes, the format is "old<new"
+there's an image in the folder to help visualise this concept to those who struggle to understand.
+_______________________________________________________________________________
+rev 2 Universal changes:
+
+grabs across the board have been buffed and made a standardized 6 frames.
+
+as well, weight dependent throw speeds have been removed, throws will always remain the same speed.
+
+finally, jump cancel grab is back, albeit a bit crazy on some characters (falcon/sonic).
+
+stages are officially unfrozen, as i've ported in some P+ stuff and we now have a much more functional FD, Lylat, and Pokemon stadium. this means stages like smashville won't be jank anymore.
+current downside, i haven't figured out a way to modify Warioware to have no transformations yet, and unfrozen stages means Delphino is no longer a viable stage pick.
+
+MK and Diddy have been tweaked, you can read their changelogs in their text files.
+_________________________________________________________________________________
+Currently unchanged/unfinished characters:
+
+peach: I have no clue how to play peach, i have never once played peach with any level of proficiency. Similarly, not even anyone i KNOW plays peach. because of this, i have literally no clue how to balance this character in a meaningful way.
+
+Ice climbers: Same as peach.
+
+Olimar: Every single pikmin olimar can use has different stats that all indiviually need balanced. i'm not doing that. nobody plays this stupid ass character. i'll worry about it later.
+
+Zero Suit Samus: 2 things. first of all, all attacks using her plasma whip count as a projectile and not an attack?? this makes it annoying to find all of her attacks proper hitboxes. and second, ZSS is a very nearly unplayed character and i think i need to play her more before i change her further. she still has some changes.
+
+Wario: I totally could rework this character, but i don't want to right now. i hate this fat ugly farting piece of shit. i don't wanna give him awesome combos, he's fucking stupid.
+
+pikachu: Previously i forgot to mention i haven't changed pikachu, just haven't gotten to it and the character is very underplayed so i haven't touched him.
+_________________________________________________________________________________

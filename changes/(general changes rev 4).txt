@@ -1,0 +1,38 @@
+combo mode+ changelog overview:
+
+when reading all character stat changes, the format is "old<new"
+_______________________________________________________________________________
+rev 4 general change info:
+
+New character:
+-Roy!
+roy is officially now added into combo mode. you can read his changelog for some general info about him.
+
+we have more new codes in place! behind the scenes this is a massive code overhaul, but on the gameplay end, this means the game now boots right to the CSS, and our default ruleset has been updated so we no longer need to change the random stage list, turn pause on, or adjust the number of stocks.
+
+lastly, more general changes to character balance and a semi-universal multijump fix.
+still no changes to Wario, Peach, Olimar, and Ice climbers.
+
+characters that got changed this patch:
+-bowser
+-zard
+-ddd
+-fox
+-kirby
+-link
+-lucario
+-luigi
+-mario
+-metaknight
+-ness
+-pit
+-puff
+-sheik
+-snake
+-toon link
+_________________________________________________________________________________
+the future of combo mode:
+as great as Roy being in combo mode finally is, this is only the beginning!
+Me and DJ have been hard at work for Roy, but now adding future characters should be easier!
+we're already planning our rev5 character release, so please don't think this is the end for combo mode going forward!
+_____________________________________________________________________________________

@@ -1,0 +1,180 @@
+toon link changes:
+
+i accidentally forgot to write a changelog for toonlink before. oops.
+because of this i may possibly miss some older minor changes.
+
+_______________________________________________________________________________
+rev 3 changes:
+
+dash attack:
+angle:0<361
+kbg:32<100
+
+d tilt:
+angle:361<65
+
+dair:
+removed stall and fall
+late hit angle:70<90
+late hit kbg:80<100
+
+bair:
+angle:60<70
+
+up air:
+kbg:95<110
+______________________________________________________________________________
+rev 4 changes:
+
+f smash:
+now uses his P+ forward smash animation with new stats, it's a single hit.
+damage:17
+bkb:10
+kbg:110
+
+d smash:
+no longer a multihit.
+first hit damage:11
+first hit angle:25
+first hit bkb:40
+first hit kbg:85
+2nd hit angle:25
+2nd hit kbg:85
+
+up smash:
+kbg:93<107
+
+dair:
+late hit angle:90<30
+kbg:100<75
+
+grab:
+sped up 1.4x
+
+side b/down b:
+all bomb pull and rang throw animations sped up 1.5x
+___________________________________________________________________________________
+rev 5 changes:
+
+fixed his animation, didn't actually update his animation file in rev 4
+_____________________________________________________________________________________
+rev 8 changes:
+
+run speed:1.65<1.77
+dash speed:1.5<1.9
+improved ground to air momentum
+increased gravity and fall speed
+
+nair:
+now has clone of link nair with his own values
+
+dair:
+angles both made 90
+sweetspot damage:16<19
+sweetspot bkb:40<50
+sweetspot kbg:80<85
+after first hit sped up 1.35x
+
+up air:
+kbg:110<75
+
+dash attack:
+added more momentum/range
+angle:361<95
+endlag sped up 1.2x
+iasa:40<35
+bkb:35<50
+kbg:100<80
+
+d tilt:
+angle:65<80
+bkb:20<55
+
+up tilt:
+bkb:30<45
+kbg:all made 95
+iasa:30<26
+
+fair:
+startup slowed .8x, rest sped up 1.1x
+bkb:22<35
+damage:13<16
+kbg:100<107
+faf:14<13
+
+bair:
+damage:10<12
+angle:70<75
+iasa:31<27
+
+f tilt:
+sped up 1.2x
+
+f smash:
+less endlag
+_____________________________________________________________________________________
+rev9:
+
+ground to air momentum buffed
+
+shorthop reduced
+
+up b:
+given P+ killing sweetspot on startup in air
+reduced vertical height
+_________________________________________________________________________________________
+rev 10:
+
+d smash:
+damage:11<15
+
+nair:
+properly lined up hitboxes to his legs
+angle:361<55
+endlag sped up 1.5
+
+side b:
+sped up startup 1.8x
+rang angle:70<80
+damage:8/5<11/9
+
+up b:
+buffed hitbox sizes on sweetspot
+faf:8<3
+
+up air:
+first active frame:11<9
+angle:80<90
+
+f smash:
+increased endlag
+
+d tilt:
+new animation, more range
+damage:9<10
+angle:80<90
+kbg:88<60
+
+dash attack:
+damage:10<13
+faf:9<8
+hitbox sizes buffed
+
+down b:
+sped up 1.6x
+
+jab:
+now has p+ jab 3, new angle
+
+fair:
+hitbox duartion increased
+
+neutral b:
+sped up 1.4x
+arrow damage:4<9
+can now landing cancel in air
+______________________________________________________________________________________
+rev 11:
+
+up b:
+better horizontal mobility

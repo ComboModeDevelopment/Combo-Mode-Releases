@@ -1,0 +1,142 @@
+lucas changes:
+
+short hop height increased
+
+dash attack:
+iasa:41<33
+kbg:76<65
+sourspot angle:75<85
+
+up smash:
+sped up 1.2x
+
+nair:
+bkb:70<40
+kbg:140<100
+lowered number of multihits:7<5
+final hit damage:3<5
+multihit angle:105<365
+final hit angle:361<60
+
+bair:
+swapped hitbox id 3/0, move can now meteor grounded opponents
+hitbox id 0 bkb:10<30
+hitbox id 0 kbg:60<80
+
+dair:
+slowed down .9x
+swapped hitbox id 1/0
+_____________________________________________________________________________________
+rev 5 changes:
+
+up air:
+angle:62<73
+bkb:10<30
+kbg:100<65
+
+bair:
+spike hitbox damage:7<14
+
+d smash:
+now made into a multihit
+sped up 1.4
+
+nair:
+sped up 1.5x after startup, then 1.2x after multi hit
+multihit lowered:5<3
+kbg:100<60
+bkb:40<60
+
+dair:
+added iasa:45
+final hit bkb:10<85
+final hit kbg:110<40
+
+up smash:
+first hit kbg:85<95
+2nd hit bkb:45<50
+2nd hit kbg:85<90
+3rd hit damage:16<17
+3rd hit bkb:40<45
+3rd hit kbg:85<90
+
+f smash:
+damage:15<18
+hitlag:1<1.5
+bkb:all made 60
+
+d tilt:
+iasa:14<21
+damage:6<7
+angle:0<90
+bkb:6<40
+kbg:22<80
+
+d throw:
+kbg:100<60
+
+up tilt:
+iasa:40<35
+endlag sped up 1.3x
+____________________________________________________________________________________
+rev 7 changes:
+
+f smash:
+bkb:60<40
+______________________________________________________________________________
+rev 8 changes:
+
+Lucas has been ported from P+ and rebalanced for combo mode. he has been given back many CM values while keeping P+ abilities, specials, and moves
+________________________________________________________________________________________
+rev 10:
+
+buffed air mobility and ground to air momentum
+lowered gravity
+
+can grab edge during airdodge
+
+dash:
+1.6<1.58
+
+run:
+1.6<1.7
+
+weight:
+94<90
+
+up tilt:
+late hit damage now matches initial hit
+
+d tilt:
+removed sourspot, all damage 6
+
+up air:
+given ness' animation to improve the hitboxes 
+kbg:100<60
+bkb:30<40
+
+dair:
+increased multihit knockback for more stun
+slowed startup .5x
+rest sped up 1.2x
+
+bair:
+all hitboxes now spike
+startup sped up 2x
+
+fair:
+angle:361<55
+startup sped up 2x
+endlag sped up 1.3x
+
+down b:
+angle:127<361
+damage:4<16
+
+d smash:
+startup sped up 2x
+hitbox size buffed
+
+neutral b:
+startup sped up 2x
+charges much faster

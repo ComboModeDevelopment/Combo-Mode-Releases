@@ -1,0 +1,266 @@
+snake changes:
+
+short hop height increased
+
+fair:
+removed momentum shift
+
+down b:
+c4 now sticks to the opponent without falling off or transfering onto snake
+c4 will stick to the opponent for 30 seconds before falling off
+the animation for sticking a c4 to the opponent is now 1.5x faster
+the endlag on detonating c4 is now increased, .5x slower (this does not affect startup)
+______________________________________________________________________________
+rev 2 changes:
+
+short hop increased:1.62<1.75
+
+weight:113<104 (falcon weight)
+
+jab:
+jab 1 sourspot angle:361<80 (no longer jab resets)
+jab 2 angles:361<80
+
+dash attack:
+startup slowed .6x
+iasa:43<35
+
+f tilt:
+first hit: startup slowed .5x
+first hit damage:8<6
+first hit sourspot angles:361<270
+first hit aerial opponent angle:361<80
+first hit hitbox size:7/6/5 < 6/5/4
+2nd hit damage:12/10/9 < 11/9/8
+2nd hit hitbox sizes:7/6.5/6/5 < 6/5.5/5/4
+
+uptilt:
+initial hitbox id0 removed
+initial hitbox id 1 and 2 size:5<3
+initial hit damage:13<10
+late hit damage:12<9
+iasa:38<31
+
+d tilt:
+damage:10<9
+iasa:35<28
+
+nair:
+startup slowed .8
+multihit sped up 1.2x
+hit 1+2 hitbox id 2/3 skb:40<55
+damage:6/5/4/13 < 5/4/3/10
+3rd hit all angles made 90
+
+fair:
+sped up 1.2x
+hitbox id 0 size:6.5<4
+
+down b:
+enemy stick animation:1.5<1.7
+removed slowdown on detonate endlag
+damage:17<15
+angle:80<90
+kbg:90<80
+_________________________________________________________________________________
+rev 3 changes:
+
+down b:
+c4 sticks to enemy for 12 seconds instead of 30
+
+jab:
+jab 2 angle:80<95
+can now cancel jab 2 into down b
+______________________________________________________________________________________
+rev 4 changes:
+
+down b:
+c4 now sticks to the opponent for 20 seconds.
+kbg:80<85
+bkb:40<45
+
+jab:
+jab 1 can once again jab reset. (angle:80<361)
+
+f tilt:
+hitbox id1 on first hit bkb:50<10
+
+f smash:
+kbg:60<40
+
+down smash:
+sped up 1.7x
+
+dair:
+sped up 1.3x
+first 3 hits all skb made 40 on hitbox id 0/1
+final hit hitbox id0 angle:361<280
+final hit hitbox id0 kbg:110<80
+multihit hitbox id1 angle:80<365
+multihit damage:6/5<4
+final hit damage:12<9
+_________________________________________________________________________________________
+rev 5 changes:
+
+increased air mobility
+run speed: 1.35<1.45
+increased double jump horizontal mobility
+jump height increased
+
+jab:
+jab 1 startup slowed .85x
+input windows for the jabs:30<40
+jab 2 angle:95<120
+jab 1 endlag slowed .7
+jab 1 can now cancel into specials just like jab 2
+jab 1 sdi multiplier:1<0
+jab 3 kbg:115<85
+
+dash attack:
+slowed down:.6x<.5x
+late hit angle:110<75
+hitbox sizes: all increased by 2
+iasa:35<38
+
+f tilt:
+2nd hit input window: 30<25
+startup slowdown reduced:.5<.6
+damage:6<7
+added iasa to first hit, iasa 30
+made hitbox id3 same as id0
+
+up tilt:
+initial hit damage:10<11
+
+d tilt:
+damage:9<10
+kbg:100<75
+
+f smash:
+slowed .9x
+bkb:100<75
+kbg:40<65
+
+up air:
+iasa:36<29
+
+fair:
+sweetspot angle:269<281
+sourspot size:4<5
+sourspot angle:80<70
+sourspot kbg:100<95
+
+up throw:
+bkb:64<75
+kbg:60<40
+
+d throw:
+sped up 1.5x
+
+up b:
+can now snap the ledge
+can now instantly cancel up b with attacks
+
+down b:
+can now cancel c4 detonate into attacks before the explosion
+_______________________________________________________________________________________________
+rev 8 changes:
+
+f smash:
+move now has same hitbox vs air and ground opponents
+____________________________________________________________________________________________
+rev 9:
+
+slight buff to ground to air momentum
+
+run speed:1.45<1.57
+dash speed:1.1<1.35
+
+neutral b:
+this move had to be reworked due to complications. snake now pulls out a grenade and picks it up as an item while on the ground, while in the air, he pulls the grenade and drops it instantly
+
+down b:
+all c4 planting variations given same treatment as planting on enemy
+startup sped up 2x
+
+f tilt:
+can now cancel first hit f tilt into specials
+_________________________________________________________________________________________________
+rev 9.5:
+
+d smash:
+startup sped up 1.3x
+
+fair:
+sourspot damage:14<16
+sweetspot damage:15<17
+
+bair:
+swapped around sweetspot and sourspot
+
+jab:
+jab 2 angle:120<365
+_____________________________________________________________________________________________
+rev 10:
+
+weight:
+104<108
+
+neutral b:
+fixed this moves functionality
+
+side b:
+just buffed the shit out of this move, faster startup, missiles are now faster and stronger
+
+up b:
+removed hitbox on cypher after release
+
+up air:
+sped up move 1.3x, endlag 1.4x
+
+fair:
+sped up startup 1.4x
+spike angle:281<295
+
+down b:
+can now act out of sticking air opponent much faster
+the detection for sticking an opponent + sticking range is much larger
+more hitlag on explosion
+sped up detonate 1.5x
+
+up tilt:
+buffed initial hitbox sizes
+
+f smash:
+sped up startup 1.2x
+hitbox made larger
+damage:22<25
+
+dash attack:
+removed slowdown on startup
+
+dair:
+sped up:1.3x<1.6x
+given P+ hitbox values with some tweaks
+final hit angle:280/361<55
+
+d smash:
+mines are now almost impossible to see and last longer
+increased hitlag
+
+grab:
+pressing B during grab hold now plants c4 on opponents
+forward+back throw can be acted out of sooner with specials
+
+jab:
+removed slowdown on jab 1 and reverted iasa
+
+nair:
+reworked hitboxes entierly to prevent infinites
+final hit kbg:95<120
+___________________________________________________________________________________________
+rev 11:
+
+up throw:
+bkb:75<87
+kbg:50<55

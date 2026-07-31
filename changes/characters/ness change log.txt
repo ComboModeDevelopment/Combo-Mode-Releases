@@ -1,0 +1,140 @@
+ness changes:
+
+djc restored
+
+fair:
+angle:361<365
+
+bair:
+sweetspot damage:15<18
+
+up air:
+kbg:109<75
+bkb:13<35
+
+down throw:
+angle:70<90
+______________________________________________________________________________________
+rev 3 changes:
+
+up smash:
+ness has a new upsmash, a headbutt like mario's.
+damage:18
+bkb:35
+kbg:90
+at the moment, i cannot get charging to function properly on the move.
+it can be charged but it won't increase damage.
+_______________________________________________________________________________________
+rev 4 changes:
+
+still no fix on charging up smash :(
+
+bair:
+sweetspot kbg:100<115
+bkb:16<25
+
+d throw:
+sped up 1.3x
+
+up throw:
+bkb:105<75
+
+dash attack:
+sped up 1.3x
+hit 1+2 hitbox sizes:5<6
+_______________________________________________________________________________________
+rev 7 changes:
+
+up tilt:
+endlag sped up 1.2x
+
+fair:
+multihit angle:365<120
+final hit angle:361<55
+
+dair:
+startup sped up 2x
+
+up air:
+kbg:75<65
+
+jab:
+hitbox id 0/2 swapped
+hitbox id 2 angle:361<80
+hitbox id 1 size:3<2.3
+endlag slowed .8x
+____________________________________________________________________________________________
+rev 8 changes:
+
+Ness has been ported from P+ and rebalanced for combo mode. he has been given back many CM values while keeping P+ abilities, specials, and moves
+___________________________________________________________________________________________
+rev 9:
+
+fair:
+multihit angle:120<365
+sdi multiplier:1.5<.2
+no idea why this move shakes the fuck out of the screen :|
+__________________________________________________________________________________________
+rev 10:
+
+dash:
+1.45<1.56
+
+run:
+1.4<1.5
+
+weight:
+94<90
+
+bair:
+damage:18<17
+kbg:115<110
+bkb:25<23
+
+up air:
+first active frame:8<6
+damage:13<12
+bkb:35<55
+kbg:65<55
+
+up tilt:
+adjusted animation for better range
+damage:7<9
+endlag sped up:1.2<1.3
+kbg:126<80
+
+side b:
+can now landing cancel air version
+
+f smash:
+startup sped up 1.5x
+sweetspot now takes priority and more of the move is sweetspot
+
+down special:
+startup sped up, hitbox now stuns multihit, can be canceled with attacks
+
+fair:
+given unique knockback vs ground or air opponent
+ground angle:120
+air angle:365
+given move range
+
+d tilt:
+now trips opponent
+damage:4<6
+
+jab:
+jab 1 angle:361<365
+can now cancel 2 jab into other attacks
+
+d throw:
+sped up 1.3x
+
+dash attack:
+reworked multihit to link properly
+
+up smash:
+whole move sped up
+
+d smash:
+whole move sped up

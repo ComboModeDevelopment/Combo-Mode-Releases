@@ -1,0 +1,12 @@
+melee fox changes:
+__________________________________________________________________________________________
+rev 11:
+
+down b:
+removed set knockback
+bkb:30<60
+kbg:60<30
+angle:20<0
+
+dair:
+hitlag:1<.7

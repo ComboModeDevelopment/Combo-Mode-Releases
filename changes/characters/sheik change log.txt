@@ -1,0 +1,155 @@
+sheik changes:
+
+jab:
+removed rapid jab
+jab 1 angle:70<361 (now jab resets)
+jab 2 iasa:18<25
+
+dash attack:
+iasa: 41<35
+sweetspot damage:7<9
+angle:60<75
+
+ftilt:
+iasa:22<25
+bkb:20<45
+kbg:100<80
+damage:5<8
+hitlag multiplier reverted back to .5
+sdi multiplier:1<1.2
+
+up tilt:
+iasa:36<30
+
+dtilt:
+damage:8<10
+
+dsmash:
+slowed down, .8x multipler
+sweetspot damage:13<16
+kbg:80<90
+
+fair:
+damage:9<12
+bkb:0<10
+
+bair:
+sourspot damage:11<13
+sweetspot damage:12<14
+
+up air:
+sweetspot angle:70<90
+kbg:100<125
+__________________________________________________________________________________________
+rev 4 changes:
+
+upsmash:
+removed 2nd hit and increased first hit active frames
+
+dair:
+sped up 1.2x
+stall and fall removed :(
+angle:70<80
+_________________________________________________________________________________________
+rev 7 changes:
+
+buffed air mobility
+
+jab:
+jab 1 angle:361<55
+jab 2 angle:70<55
+jab 2 kbg:40<65
+jab 2 iasa:25<22
+jab 2 damage:3<4
+
+neutral b:
+needles angle all made 270
+kbg:34<25
+bkb:24<25
+travel faster and last longer
+endlag sped up 1.3x
+can double jump out of aerial version
+
+nair:
+angle:361<55
+
+d smash:
+startup slowed .5x, rest of move reverted to 1x
+sweetspot angle:40<30
+sweetspot kbg:90<95
+sweetspot bkb:35<40
+
+fair:
+angle:30<25
+____________________________________________________________________________________________
+rev 8 changes:
+
+jab:
+made jab 3 f-tilt
+________________________________________________________________________________________________
+rev 9.5:
+
+run speed:1.92<1.98
+buffed ground to air momentum
+
+bair:
+given P+ bair hitboxes
+
+fair:
+damage:12<13
+kbg:108<112
+
+dair:
+damage:10<12
+
+f tilt:
+damage:8<9
+
+dash attack:
+damage:9/5<11/8
+iasa:35<30
+kbg:100<65
+
+d tilt:
+angle:70<80
+iasa:30<23
+
+up air:
+now a multihit
+___________________________________________________________________________________________
+rev 10:
+
+improved air mobility, lower jumps, higher gravity
+
+run:
+1.98<2.2
+
+weight:
+85<92
+
+f tilt:
+damage:9<7
+
+up air:
+increased hitbox sizes
+bkb:20<25
+slowed multihit .7x
+added 1 more hit to multihit
+
+up tilt:
+completely reworked move and given new animation
+
+up throw:
+sped up end lag 1.4x
+
+dair:
+startup sped up 1.5x
+restored stall and fall
+
+f smash:
+given new animation, strong single hit
+
+d smash:
+damage:16<15
+bkb:40<35
+kbg:95<90

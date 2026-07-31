@@ -1,0 +1,4 @@
+ganon changes:
+
+d throw:
+angle:90<65

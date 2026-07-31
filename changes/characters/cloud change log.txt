@@ -1,0 +1,20 @@
+Cloud changes:
+
+jab:
+reworked hitboxes and angles on jab1 to prevent infinite
+
+nair:
+hitlag:1>1.2
+damage:10<9
+
+up air:
+sweetspot damage:11>10
+kbg:60<95
+
+f smash:
+first 2 hits hitlag:1.5>.7
+
+fair:
+startup slowed .5x
+initial hitbox angle:70<55
+damage:8/16/17/9 < 8/15/16/9
