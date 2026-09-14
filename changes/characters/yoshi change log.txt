@@ -124,3 +124,7 @@ aerial version damage:12<17
 
 up b:
 sped up 1.4x
+_______________________________________________________________________________________
+rev 12:
+
+removed invincibility on shield release, now has armor

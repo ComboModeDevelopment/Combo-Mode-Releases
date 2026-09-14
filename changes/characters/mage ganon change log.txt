@@ -1,0 +1,35 @@
+mage ganon changes:
+
+run speed:1.71<1.87
+
+jab:
+faf:9<5
+redid darkness blast to be multihit
+
+d tilt:
+new animation with far more range
+removed 2nd hit
+
+f smash:
+removed sourspot
+damage:14<17
+sped up startup
+
+up tilt:
+removed speed up on startup
+sped up multihit:1.85<3
+removed gfx to drastically reduce range
+
+nair:
+now reworked to be a multihit
+
+up air:
+new animation and properties
+
+fair:
+angle:60<40
+damage:12<16
+removed speed up on startup
+
+neutral b:
+sped up throw speed

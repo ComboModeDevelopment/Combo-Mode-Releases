@@ -243,3 +243,17 @@ active frames:2<4
 dair:
 damage all made 7%
 endlag sped up 1.25x
+__________________________________________________________________________________________________
+rev 12:
+
+bair:
+grounded hit bkb:45<20
+final hit kbg:155<135
+
+dair:
+bkb:30<0
+kbg:40<110
+
+up air:
+angle:85<60
+bkb:40<20

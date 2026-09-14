@@ -163,3 +163,8 @@ endlag sped up:1.2x<1.4x
 nair:
 hitbox sizes buffed
 angle:55<70
+_____________________________________________________________________________________________
+rev 12:
+
+side b:
+reworked release on attack after grab to prevent infinites 

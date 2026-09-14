@@ -187,3 +187,34 @@ damage:9<15
 f tilt:
 low angled f tilt angle:361<25
 all varients startup sped up
+_______________________________________________________________________________________________
+rev 12:
+
+up b:
+holding b now lets ike auto sweetspot the edge while rising
+landing lag sped up 2x
+
+up air:
+sped up endlag 1.8x
+
+nair:
+sped up startup 1.4x
+adjusted animation for more range
+sped up endlag 1.6x
+
+up tilt:
+startup sped up 1.6x
+
+d tilt:
+startup sped up 2x
+
+fair:
+active frames:6<7
+endlag sped up:1.3x<1.6x
+
+bair:
+endlag sped up 1.5x
+
+d smash:
+startup sped up 2x
+can now carry momentum during move

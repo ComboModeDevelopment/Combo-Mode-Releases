@@ -1,0 +1,26 @@
+kumatora changes:
+____________________________________________________________________________________________
+rev 12:
+
+d smash:
+now trips
+
+down b:
+startup sped up
+endlag slowed
+
+up tilt:
+adjusted animation and frame data for better range
+initial hit damage:3<1
+2nd hit damage:8<10
+
+up air:
+hitlag:1<.5
+slowed hitboxes:.7<.5
+
+down b:
+no longer techable
+now consistently works against all opponents
+
+f smash:
+startup sped up:1.2<1.4

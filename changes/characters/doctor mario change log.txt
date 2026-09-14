@@ -182,3 +182,33 @@ given ult animations
 back throw:
 slowed .7x
 damage:15<17
+__________________________________________________________________________________________
+rev 12:
+
+buffed air mobility
+
+dash attack:
+angle vs grounded opponents:80<270
+
+up tilt:
+angle vs grounded opponents:76<270
+
+d tilt:
+angle vs grounded opponents:100<265
+
+d smash:
+startup slowed .5x
+
+down b:
+sped up
+hitboxes reworked to connect better vs aerial opponents
+
+side b:
+damage:8<11
+
+f smash:
+removed slowdown on startup
+kbg:97<110
+
+up air:
+added late hit angle:25

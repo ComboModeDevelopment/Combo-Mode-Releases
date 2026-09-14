@@ -212,3 +212,17 @@ extended hitbox duration:2<4
 dash attack:
 final hit now trips
 removed speed up during move
+____________________________________________________________________________________________
+rev 12:
+
+nair:
+damage:14<12
+
+up air:
+damage:13<10
+
+dair:
+removed 1 multihit
+
+d smash:
+slowed endlag .9x

@@ -8,3 +8,26 @@ angle:65<75
 
 f tilt:
 new f tilt with new properties 
+________________________________________________________________________________________
+rev 12:
+
+ground to air mobility buffed
+
+f smash:
+buffed range
+
+up b:
+buffed vertical height
+completely reworked to be a powerful vertical kill move
+
+down b:
+if the aerial version connects, daisy gets her double jump back
+grab hitbox larger and more active
+air throw angle:55<70
+
+up tilt:
+new uptilt with her bat
+
+f tilt:
+removed slowdown on startup
+sped up endlag

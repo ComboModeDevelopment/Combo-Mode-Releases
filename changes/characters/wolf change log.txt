@@ -187,3 +187,21 @@ bkb:6<15
 
 f smash:
 animation redone + made 2 hit
+_____________________________________________________________________________________________
+rev 12:
+
+grab:
+pummel slowed .5x
+
+f smash:
+new redone animation
+
+f tilt:
+new animation and properties, based off P+ wolf dash attack
+
+d tilt:
+hitboxes slowed .4x
+endlag slowed .6x
+
+fair:
+endlag sped up:1.55<1.8x

@@ -1,0 +1,25 @@
+isabelle changes:
+__________________________________________________________________________________________________
+rev 12:
+
+fair:
+slowed endlag .8x
+
+bair:
+slowed endlag .8x
+
+d tilt:
+removed speedup on endlag
+damage:13<11
+
+up tilt:
+iasa:26<31
+adjusted animation for better swing
+active frames:8<9
+
+dair:
+removed speed up on startup
+
+side b:
+endlag sped up:.88<.9
+removed iasa

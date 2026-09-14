@@ -1,4 +1,27 @@
-ganon changes:
+pig ganon changes:
 
 d throw:
 angle:90<65
+____________________________________________________________________________________________
+rev 12:
+
+side b:
+grounded startup sped up 1.8x
+
+up b:
+sped up 1.4x
+
+down b:
+removed slowdown on startup
+
+d tilt:
+adjusted animation for more range (+ looks better)
+
+up tilt:
+new animation and properties
+
+up smash:
+old up tilt animation with new properties
+
+f tilt:
+now angleable

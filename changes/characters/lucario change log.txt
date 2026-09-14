@@ -316,3 +316,18 @@ sped up startup more
 
 down throw:
 angle:75<60
+__________________________________________________________________________________________________
+rev 12:
+
+nair:
+new nair, new properties, now a 2 hit kick
+
+side b:
+aerial version angle:280<270
+bkb:10<30
+kbg:212<70
+
+f tilt:
+1st hit angle:55<0
+1st hit damage:5<2
+2nd hit added skb

@@ -26,3 +26,15 @@ damage:12<11
 
 up tilt:
 damage:10<9
+___________________________________________________________________________________
+rev 12:
+
+up b:
+sped up 1.3x
+
+jab:
+jab 2 hitlag:1<2
+
+f tilt:
+sped up startup 1.3x
+slowed hitboxes duration .5x

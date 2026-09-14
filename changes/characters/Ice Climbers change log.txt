@@ -1,0 +1,12 @@
+ice climbers changes:
+___________________________________________________________________________________
+rev 12:
+
+increased gravity and fall speed
+
+d throw:
+bkb:30<35
+skb:30<35
+
+up throw:
+bkb:80<100

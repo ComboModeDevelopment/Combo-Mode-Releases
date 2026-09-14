@@ -255,3 +255,31 @@ multihit bkb:35<25
 
 f tilt/up tilt:
 can now slide during these moves
+___________________________________________________________________________________________
+rev 12:
+
+down b:
+hitbox completely reworked, no more set knockback and will now eventually knock down
+
+d smash:
+new animation with same values as before
+
+up air:
+new animation with same values as before 
+
+d tilt:
+new animation with more range
+
+dash attack:
+new animation, now a double kick, new properties
+
+up smash:
+animation redone, values are all the same but this slightly nerfs range and frame data
+
+up tilt:
+new animation and reworked move properties
+
+dair:
+now has a final hit that combos
+less multihits:7<4
+endlag sped up 1.8x

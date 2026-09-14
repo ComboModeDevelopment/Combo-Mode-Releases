@@ -208,3 +208,11 @@ damage:19>17
 
 up air:
 increased endlag
+_________________________________________________________________________________________
+rev 12:
+
+side b:
+multihit hitboxes redone to work better in the air
+
+up b:
+no longer has armor, pit finally gets his up b back when hit out of it

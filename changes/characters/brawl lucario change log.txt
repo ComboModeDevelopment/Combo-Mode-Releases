@@ -1,0 +1,19 @@
+brawl lucario changes:
+
+redid gravity and air mobility to be closer to lucario
+
+aura rebalanced, now starts at 1.2x and goes up to 1.6x by 60%
+
+side b:
+kbg:90<80
+bkb:60<50
+
+up taunt:
+now damages lucario for 15% (makes it easier to lab aura at different %'s)
+
+down b:
+lucario attacks much faster after a successful counter
+
+fair:
+endlag sped up 1.2x
+iasa:28<23

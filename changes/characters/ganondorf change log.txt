@@ -215,3 +215,80 @@ buffed all damage
 
 down b:
 buffed hitboxes to cover his leg fully
+_________________________________________________________________________________________
+rev 11:
+
+up b:
+horizontal momentum buffed
+
+up tilt:
+sped up startup 2x
+
+jab:
+sped up startup:2.5x<3x
+___________________________________________________________________________________________
+rev 12:
+
+buffed air mobility + ground to air
+
+run speed:
+1.5<1.63
+
+dash speed:
+1.5<1.6
+
+dash attack:
+given more range
+buffed late hit size
+increased late hit duration:7<11
+
+fair:
+kbg:83<91
+damage:18<19
+removed sourspot
+
+up air:
+made sweetspot damage consistent
+1st hit bkb:35<45
+1st hit damage:13<15
+
+nair:
+endlag sped up:1.4<1.5
+sped up between hits 2.4x
+slowed hitboxes during 2nd hit .75x
+
+dair:
+startup sped up 1.2x
+removed sourspot
+
+up air:
+endlag sped up 1.3x
+
+bair:
+iasa:36<29
+active frames:3<5
+removed sourspot
+
+f tilt:
+up angled f tilt sped up:.7<1.2
+up angled f tilt endlag sped up 1.3x
+buffed up angled f tilt sizes
+added new hitbox on up angled f tilt that knocks down grounded opponents
+
+down b:
+no longer slows momentum after hitting opponent
+endlag sped up
+
+up b:
+final hit buffed damage and kill power
+
+d smash:
+redid hitboxes and angles to make hits link better
+sped up between hits 3x
+sped up startup 1.6x
+
+side b:
+startup sped up 1.5x
+adjusted aerial version frame data to match grounded version
+aerial landing lag:40<25
+endlag of grab sped up 1.25x

@@ -197,3 +197,20 @@ side b:
 lasts longer
 new angle
 hits more frequently
+__________________________________________________________________________________________
+rev 12:
+
+fair:
+adjusted animation for more range
+
+d tilt:
+adjusted animation for more range + buffed hitbox sizes
+damage:4/6<6/6
+
+dash attack:
+active frames:8<13
+buffed range
+
+f tilt:
+new 2nd hit (based off P+ dash attack)
+if first half of move connects it confirms into the 2nd hit

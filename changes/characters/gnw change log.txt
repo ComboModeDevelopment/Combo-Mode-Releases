@@ -135,3 +135,25 @@ has been changed to his old nair
 jab:
 jab 1 angle:80<120
 rapid jab now leads into dash attack
+____________________________________________________________________________________________________
+rev 12:
+
+dair:
+resorted stall and fall
+spike hitbox duration:2<5
+
+d smash:
+now buries opponents 
+
+fair:
+endlag sped up 1.8x
+
+d tilt:
+now spikes vs grounded opponents 
+
+up tilt:
+startup sped up 2x
+
+neutral b:
+sped up 2x/1.5x
+can landing cancel aerial version

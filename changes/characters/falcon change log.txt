@@ -260,3 +260,17 @@ damage:12/11/10<10
 
 nair:
 2nd hit damage:6<5
+___________________________________________________________________________________________
+rev 12:
+
+jab:
+jab 1 and 2 removed slowdown and reworked knockback
+
+grab:
+dash grab given a momentum boost
+f throw sped up 1.3x
+f throw angle:45<55
+
+dair:
+bkb:55<40
+kbg:90<80

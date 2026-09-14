@@ -127,3 +127,12 @@ now has P+ aerial version
 
 neutral b:
 can now cancel charge with jump
+___________________________________________________________________________________________
+rev 12:
+
+dash attack:
+can now roll offstage like in P+
+
+up tilt:
+slowed hitbox duration .76x
+slowed endlag:1.2<1.1

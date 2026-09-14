@@ -233,3 +233,8 @@ buffed horizontal movement
 up air:
 hitlag:1.7<1
 hitbox sizes increased
+_______________________________________________________________________________________
+rev 12:
+
+d throw:
+kbg:60<100

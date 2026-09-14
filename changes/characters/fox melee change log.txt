@@ -10,3 +10,17 @@ angle:20<0
 
 dair:
 hitlag:1<.7
+________________________________________________________________________________________
+rev 12:
+
+down b:
+hitbox completely reworked, no more set knockback and will now eventually knock down
+
+dair:
+damage:3<2
+bkb:25<20
+multihits:7<10
+removed downtime between hits
+
+bair:
+endlag sped up 1.5x

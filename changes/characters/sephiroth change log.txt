@@ -56,3 +56,15 @@ startup sped up
 
 dash attack:
 now a 2 hit multihit
+________________________________________________________________________________________
+rev 12:
+
+one wing:
+now activates at 75% instead of 110%
+damage buff:1.4x<1.2x
+
+up tilt:
+endlag sped up:1.9<2.1
+
+side b:
+charges faster

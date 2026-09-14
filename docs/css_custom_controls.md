@@ -130,9 +130,11 @@ For GC option 12 (Analog Shield): `ButtonTable[0x8C]` must contain `0x0D`. For C
 0x20-0x2F  word[4]  Controller object pointers per port
 0x30-0x33  word[1]  Per-port Analog Shield enable byte [P1, P2, P3, P4]
 0x34-0x37  word[1]  Scratch: port stashed by getPadInput hook for the game-time analog shield hook
+0x38-0x3B  word[1]  Per-port "hard shield fired this frame" byte [P1, P2, P3, P4] —
+                    set by digital-press hooks, cleared by port-stash, read by airdodge filter
 ```
 
-Extend as needed for future features. `HOOK @ $806828C8` (CSS init) zeroes `0x30(r5)` — extend it if you add more state that needs zero-init.
+Extend as needed for future features. `HOOK @ $806828C8` (CSS init) zeroes `0x30(r5)` — extend it if you add more state that needs zero-init. Note that `0x38` is per-frame transient state (set/cleared every input pass) and does NOT need CSS-init zeroing.
 
 ---
 
@@ -166,6 +168,55 @@ HOOK @ $8004a4b4
 ```
 
 **Rule of thumb:** avoid hooking the very first instruction of a function that is itself a tail-call target from another function. Hook the caller instead.
+
+---
+
+## Preventing analog shield from causing airdodges
+
+Analog shield adds bit `0x0008` (shield) to the pad input. In air, that input triggers Brawl's built-in airdodge transition (Action `0x21` = `Escape_Air`) — which players generally don't want, since it burns their airdodge on every light trigger press.
+
+**Solution:** hook `changeStatusRequest/[soStatusModuleImpl]` at `$8077f5a8` and gate any request that targets Action `0x21`.
+
+### Per-port "hard shield fired this frame" tracking
+
+Because the airdodge check needs to distinguish digital (hard) shield from analog (soft) shield, we track it per-port through the input pipeline:
+
+| Hook | Action |
+|------|--------|
+| `$8004a4b4` (port-stash in `getPadInput`) | Clears `DataRefTable+0x38+port` to 0 at the start of each port's input pass |
+| `$80048dd4` / `$80048E0C` (digital L / R press) | If `r7 == 8` (shield config), sets `DataRefTable+0x38+port` to 1 using the port stashed at `+0x34` |
+| `$8077f5a8` (`changeStatusRequest`) | If `r4 == 0x21`, reads the full `DataRefTable+0x38` word — if any of the 4 bytes is non-zero, allow; otherwise `li r3, 0; blr` to deny |
+
+### Why "any port" instead of the current fighter's port
+
+At `changeStatusRequest`, the fighter's port would need to come from the `moduleAccesser` struct via a chain like `moduleAccesser → controllerModule (+0x5C) → port (+0x08)`. Struct layouts differ between release and debug DOL builds, and the exact offset for `moduleAccesser` in the r3/r5 registers at this call site isn't obvious. Reading all four per-port bytes as a single word (`lwz r0, 0x38(r11); cmpwi r0, 0; bne+`) sidesteps the whole struct-layout question and is one instruction cheaper.
+
+The tradeoff: if P1 hard-shields on the exact frame P2 tries to analog-airdodge, P2's airdodge is incorrectly allowed. In practice this doesn't happen because (a) each port's byte is cleared at the start of its own next input pass, so the flag is fresh per frame, and (b) simultaneous cross-port airdodge attempts of this kind are exceedingly rare.
+
+### Ghidra caveat — verify addresses in map files
+
+Ghidra's ICF (Identical Code Folding) merged `changeStatusRequest` with an unrelated destructor and reported it at `$8078d534` — that address is actually `__dt/[soArrayNull<11soShakeTerm>]`. The correct address `$8077f5a8` came from `RSBE01.map`. **Always cross-check Ghidra addresses against the map files before writing a hook** — this trap will bite for other functions too.
+
+### Motion-module frame overrides can silently corrupt PSA Compare requirements
+
+A rogue mod hooking `getFrame/[soMotionModuleImpl]` at `$8071F474` had this body:
+
+```asm
+lwz r12, 0x58(r3)      # motion kind field
+cmpwi r12, 0xe
+beq loc_0x005
+lfs f1, 0x40(r3)       # vanilla: return frame from +0x40
+b loc_0x006
+loc_0x005:
+fmr f1, f26            # override: return f26 as the frame
+loc_0x006:
+```
+
+Every per-frame fighter update calls `getFrame` to ask "what motion frame are we currently on?". This hook replaced the returned frame with `f26` whenever the motion kind at `+0x58` equalled `0xE`.
+
+**Downstream effect:** `IC-Basic[21001]` (time-in-current-action counter) and any other `IC-Basic` value derived from the current motion frame become wrong. PSA `Compare` requirements built on those values then evaluate at wrong times. In one build this manifested as **moonwalks turning around too early** — Dash Entry's stick-vs-threshold Change Action Status events (`ID=2740`, `ID=273C`, `ID=273A`) were firing on corrupted frame data.
+
+**Rule:** treat any hook on `getFrame/[soMotionModuleImpl]`, `getInt/[soWorkManageModule]`, or other "return a per-frame fighter state value" functions as high-blast-radius. A single overridden field can poison PSA compares across every Action of every fighter. When debugging weird timing regressions, always suspect functions that supply the raw inputs to PSA requirement checks.
 
 ---
 

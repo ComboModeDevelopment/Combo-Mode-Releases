@@ -199,3 +199,11 @@ kbg:25<35
 
 jab:
 jab 1 bkb:35<10
+___________________________________________________________________________________________
+rev 12:
+
+f smash:
+redid animation so it's not as awkward to hit opponents close to mac
+
+d tilt:
+touched up animation

@@ -189,3 +189,41 @@ rev 11:
 
 d throw:
 angle:90<120
+_____________________________________________________________________________________________
+rev 12:
+
+buffed air mobility and ground to air momentum
+
+dash attack:
+given more range
+made damage consistent between all hitboxes
+late hit damage:8<10
+increased active frames
+
+jab:
+redid animation
+now a single hit
+added lower hitting hitbox
+
+side b:
+projectile moves faster
+damage:7<11
+
+f tilt:
+FaF:12<11
+
+up air:
+new animation
+damage:19<20
+now shifts her momentum
+
+up tilt:
+hitlag multiplier:1<.6
+
+d tilt:
+reworked all hitboxes and added new hitbox + gfx for more range
+iasa:25<20
+
+up b:
+no longer puts zelda into special fall
+fixed many stage collision issues 

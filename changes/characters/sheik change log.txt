@@ -153,3 +153,25 @@ d smash:
 damage:16<15
 bkb:40<35
 kbg:95<90
+___________________________________________________________________________________________
+rev 12:
+
+jab:
+jab 1 damage:3<2
+jab 2 damage:4<2
+jab 2 angle:55<130
+
+dash attack:
+damage:11<10
+late hit damage:5<7
+
+up air:
+multihit damage:2<1
+bkb:25<10
+sdi multiplier:.2<.5
+
+f tilt:
+angle:75<70
+
+fair:
+kbg:112<105

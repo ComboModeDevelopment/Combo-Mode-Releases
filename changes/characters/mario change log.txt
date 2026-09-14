@@ -212,3 +212,22 @@ can cancel jab 2 into attacks
 up air:
 angle:50<55
 faf:4<3
+__________________________________________________________________________________________________
+rev 12:
+
+run speed:
+1.73<1.83
+
+air mobility buffed
+
+fair:
+removed late hit sourspot on spike
+
+dair:
+multihit damage:3<2
+
+jab:
+jab 2 angle:361<365
+
+down b:
+water pushes opponents further 
